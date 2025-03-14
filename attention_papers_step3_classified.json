@@ -1,0 +1,6136 @@
+{
+  "neural_attention_mechanism": [
+    {
+      "title": "A PRIMAL-DUAL FRAMEWORK FOR TRANSFORMERS AND NEURAL NETWORKS",
+      "year": "2023",
+      "venue": "ICLR",
+      "index": 3647,
+      "similarity_score": 0.5247013070918548,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Adaptive Attention Span in Transformers",
+      "year": "2019",
+      "venue": "ACL",
+      "index": 3933,
+      "similarity_score": 0.4953248272392161,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Is Attention Explanation? An Introduction to the Debate",
+      "year": "2022",
+      "venue": "ACL",
+      "index": 6024,
+      "similarity_score": 0.492614321264632,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Modeling Localness for Self-Attention Networks",
+      "year": "2018",
+      "venue": "EMNLP",
+      "index": 3028,
+      "similarity_score": 0.48809065786710926,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Not All Attention Is Needed: Gated Attention Network for Sequence Data",
+      "year": "2020",
+      "venue": "AAAI",
+      "index": 12117,
+      "similarity_score": 0.4843918504417932,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention",
+      "year": "2020",
+      "venue": "ICML",
+      "index": 3518,
+      "similarity_score": 0.4815298686936609,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention",
+      "year": "2015",
+      "venue": "ICML",
+      "index": 724,
+      "similarity_score": 0.4795108660625951,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Are Sixteen Heads Really Better than One?",
+      "year": "2019",
+      "venue": "IJCAI",
+      "index": 8839,
+      "similarity_score": 0.4791165822947756,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Are Sixteen Heads Really Better than One?",
+      "year": "2019",
+      "venue": "NIPS",
+      "index": 8839,
+      "similarity_score": 0.4791165822947756,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "The emergence of clusters in self-attention dynamics",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 18404,
+      "similarity_score": 0.4740009664099174,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "The emergence of clusters in self-attention dynamics",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 18404,
+      "similarity_score": 0.4740009664099174,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "SparseBERT: Rethinking the Importance Analysis in Self-attention",
+      "year": "2021",
+      "venue": "ICML",
+      "index": 5135,
+      "similarity_score": 0.4712094541924954,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Representational Strengths and Limitations of Transformers",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 17407,
+      "similarity_score": 0.4682314000235641,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Representational Strengths and Limitations of Transformers",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 17407,
+      "similarity_score": 0.4682314000235641,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Synthesizer: Rethinking Self-Attention for Transformer Models",
+      "year": "2021",
+      "venue": "ICML",
+      "index": 5200,
+      "similarity_score": 0.4641578649681376,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Self-Attention Attribution: Interpreting Information Interactions Inside Transformer",
+      "year": "2021",
+      "venue": "AAAI",
+      "index": 13244,
+      "similarity_score": 0.46266131467121285,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding",
+      "year": "2018",
+      "venue": "AAAI",
+      "index": 9529,
+      "similarity_score": 0.4626486706166596,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Linear Log-Normal Attention with Unbiased Concentration",
+      "year": "2024",
+      "venue": "ICLR",
+      "index": 4085,
+      "similarity_score": 0.46171912187275177,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Text-Guided Attention Model for Image Captioning",
+      "year": "2017",
+      "venue": "AAAI",
+      "index": 7833,
+      "similarity_score": 0.45971423843593706,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Point Transformer",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 3120,
+      "similarity_score": 0.4579268327374386,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Big Bird: Transformers for Longer Sequences",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10180,
+      "similarity_score": 0.4570990264858361,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Big Bird: Transformers for Longer Sequences",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10180,
+      "similarity_score": 0.4570990264858361,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Modify Self-Attention via Skeleton Decomposition for Effective Point Cloud Transformer",
+      "year": "2022",
+      "venue": "AAAI",
+      "index": 16011,
+      "similarity_score": 0.45603810601511985,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Inductive Biases and Variable Creation in Self-Attention Mechanisms",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 5682,
+      "similarity_score": 0.4555566204177314,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "White-Box Transformers via Sparse Rate Reduction",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 19634,
+      "similarity_score": 0.45469964854695943,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "White-Box Transformers via Sparse Rate Reduction",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 19634,
+      "similarity_score": 0.45469964854695943,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Nystr\u00a8omformer: A Nystr\u00a8om-based Algorithm for Approximating Self-Attention",
+      "year": "2021",
+      "venue": "AAAI",
+      "index": 13444,
+      "similarity_score": 0.4544907266188909,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Surprisingly Easy Hard-Attention for Sequence to Sequence Learning",
+      "year": "2018",
+      "venue": "EMNLP",
+      "index": 3122,
+      "similarity_score": 0.4541929169873129,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "PIDformer: Transformer Meets Control Theory",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 8937,
+      "similarity_score": 0.45414562822328375,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Adder Attention for Vision Transformer",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 12157,
+      "similarity_score": 0.4530699142087402,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "On the Dynamics of Training Attention Models",
+      "year": "2021",
+      "venue": "ICLR",
+      "index": 1844,
+      "similarity_score": 0.4512151156994727,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Transformers from an Optimization Perspective",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 15775,
+      "similarity_score": 0.4510346007473006,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Transformers from an Optimization Perspective",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 15775,
+      "similarity_score": 0.4510346007473006,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Learning to Deceive with Attention-Based Explanations",
+      "year": "2020",
+      "venue": "ACL",
+      "index": 4718,
+      "similarity_score": 0.45079887342357916,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Cascaded Head-colliding Attention",
+      "year": "2021",
+      "venue": "ACL",
+      "index": 5515,
+      "similarity_score": 0.4496580003812377,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Improving Transformers with Probabilistic Attention Keys",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 6209,
+      "similarity_score": 0.4481808376346279,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Attention as Implicit Structural Inference",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 16838,
+      "similarity_score": 0.44652530942512003,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Attention as Implicit Structural Inference",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 16838,
+      "similarity_score": 0.44652530942512003,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 9853,
+      "similarity_score": 0.4457884139257555,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 9853,
+      "similarity_score": 0.4457884139257555,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Highway Transformer: Self-Gating Enhanced Self-Attentive Networks",
+      "year": "2020",
+      "venue": "ACL",
+      "index": 4922,
+      "similarity_score": 0.44564317588578706,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Area Attention",
+      "year": "2019",
+      "venue": "ICML",
+      "index": 2559,
+      "similarity_score": 0.4453033036993952,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Improving the Faithfulness of Attention-based Explanations with Task-specific Information for Text Classification",
+      "year": "2021",
+      "venue": "ACL",
+      "index": 5460,
+      "similarity_score": 0.4451241795932238,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Attention is not all you need: pure attention loses rank doubly exponentially with depth",
+      "year": "2021",
+      "venue": "ICML",
+      "index": 4455,
+      "similarity_score": 0.44255849019012317,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Jump Self-attention: Capturing High-order Statistics in Transformers",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 14247,
+      "similarity_score": 0.44235626961096797,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Jump Self-attention: Capturing High-order Statistics in Transformers",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 14247,
+      "similarity_score": 0.44235626961096797,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference",
+      "year": "2020",
+      "venue": "EMNLP",
+      "index": 3716,
+      "similarity_score": 0.44199342739213765,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Deep Reinforced Attention Learning for Quality-Aware Visual Recognition",
+      "year": "2020",
+      "venue": "ECCV",
+      "index": 1492,
+      "similarity_score": 0.4410567558308315,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Scaling Local Self-Attention for Parameter Efficient Visual Backbones",
+      "year": "2021",
+      "venue": "CVPR",
+      "index": 4934,
+      "similarity_score": 0.4410270001557828,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Supervising Neural Attention Models for Video Captioning by Human Gaze Data",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 3024,
+      "similarity_score": 0.44015481327269834,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "SAC: Accelerating and Structuring Self-Attention via Sparse Adaptive Connection",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10153,
+      "similarity_score": 0.44001733025285583,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "SAC: Accelerating and Structuring Self-Attention via Sparse Adaptive Connection",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10153,
+      "similarity_score": 0.44001733025285583,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Context-Aware Self-Attention Networks",
+      "year": "2019",
+      "venue": "AAAI",
+      "index": 10010,
+      "similarity_score": 0.43933939819455814,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Partial Correlation-based Attention for Multivariate Time Series Forecasting",
+      "year": "2020",
+      "venue": "AAAI",
+      "index": 11707,
+      "similarity_score": 0.4376761992586212,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "AttCAT: Explaining Transformers via Attentive Class Activation Tokens",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 16040,
+      "similarity_score": 0.4369992787246878,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "AttCAT: Explaining Transformers via Attentive Class Activation Tokens",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 16040,
+      "similarity_score": 0.4369992787246878,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Mask Attention Networks: Rethinking and Strengthen Transformer",
+      "year": "2021",
+      "venue": "NAACL",
+      "index": 1631,
+      "similarity_score": 0.4368054875152346,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Continuous Self-Attention Models with Neural ODE Networks",
+      "year": "2021",
+      "venue": "AAAI",
+      "index": 13429,
+      "similarity_score": 0.43679427645353075,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "What Improves the Generalization of Graph Transformers? A Theoretical Dive into the Self-attention and Positional Encoding",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 8517,
+      "similarity_score": 0.43674538610925817,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Attention is not Explanation",
+      "year": "2019",
+      "venue": "EMNLP",
+      "index": 3271,
+      "similarity_score": 0.4359536154131325,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Stand-Alone Self-Attention in Vision Models",
+      "year": "2019",
+      "venue": "IJCAI",
+      "index": 8889,
+      "similarity_score": 0.43524563265184646,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Stand-Alone Self-Attention in Vision Models",
+      "year": "2019",
+      "venue": "NIPS",
+      "index": 8889,
+      "similarity_score": 0.43524563265184646,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "You Only Sample (Almost) Once: Linear Cost Self-Attention Via Bernoulli Sampling",
+      "year": "2021",
+      "venue": "ICML",
+      "index": 4233,
+      "similarity_score": 0.4347435793923847,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Focal Attention for Long-Range Interactions in Vision Transformers",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 13018,
+      "similarity_score": 0.4331012431464607,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Focal Attention for Long-Range Interactions in Vision Transformers",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 13018,
+      "similarity_score": 0.4331012431464607,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Fast Transformers with Clustered Attention",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10588,
+      "similarity_score": 0.4306149162591061,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Fast Transformers with Clustered Attention",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10588,
+      "similarity_score": 0.4306149162591061,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "FourierFormer: Transformer Meets Generalized Fourier Integral Theorem",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 15163,
+      "similarity_score": 0.42922348020236734,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "FourierFormer: Transformer Meets Generalized Fourier Integral Theorem",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 15163,
+      "similarity_score": 0.42922348020236734,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Exploiting the Social-Like Prior in Transformer for Visual Reasoning",
+      "year": "2024",
+      "venue": "AAAI",
+      "index": 17994,
+      "similarity_score": 0.4290783264560959,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Pure Transformers are Powerful Graph Learners",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 13979,
+      "similarity_score": 0.4285538510732263,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Pure Transformers are Powerful Graph Learners",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 13979,
+      "similarity_score": 0.4285538510732263,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Look Harder: A Neural Machine Translation Model with Hard Attention",
+      "year": "2019",
+      "venue": "ACL",
+      "index": 3900,
+      "similarity_score": 0.4285103133787146,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Multi-Head Attention with Disagreement Regularization",
+      "year": "2018",
+      "venue": "EMNLP",
+      "index": 2853,
+      "similarity_score": 0.42824588405115716,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Residual Attention Network for Image Classification",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 2804,
+      "similarity_score": 0.4275197781450115,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "FMMformer: Efficient and Flexible Transformer via Decomposed Near-field and Far-field Attention",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 12971,
+      "similarity_score": 0.427179105168498,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "FMMformer: Efficient and Flexible Transformer via Decomposed Near-field and Far-field Attention",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 12971,
+      "similarity_score": 0.427179105168498,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Energy Transformer",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 16964,
+      "similarity_score": 0.42669488002595635,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Energy Transformer",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 16964,
+      "similarity_score": 0.42669488002595635,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "BA-Net: Bridge Attention for Deep Convolutional Neural Networks",
+      "year": "2022",
+      "venue": "ECCV",
+      "index": 2996,
+      "similarity_score": 0.426356946594596,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Improving Transformer with an Admixture of Attention Heads",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 15052,
+      "similarity_score": 0.42621971645584444,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Improving Transformer with an Admixture of Attention Heads",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 15052,
+      "similarity_score": 0.42621971645584444,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "SEQUENTIAL ATTENTION FOR FEATURE SELECTION",
+      "year": "2023",
+      "venue": "ICLR",
+      "index": 3428,
+      "similarity_score": 0.4251582480760976,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Shunted Self-Attention via Multi-Scale Token Aggregation",
+      "year": "2022",
+      "venue": "CVPR",
+      "index": 5664,
+      "similarity_score": 0.42459887510266103,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "From Self-Attention to Markov Models: Unveiling the Dynamics of Generative Transformers",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 10777,
+      "similarity_score": 0.42305512033540404,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "On the Connection Between MPNN and Graph Transformer",
+      "year": "2023",
+      "venue": "ICML",
+      "index": 6936,
+      "similarity_score": 0.4203189890769252,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "SPIKFORMER: WHEN SPIKING NEURAL NETWORK MEETS TRANSFORMER",
+      "year": "2023",
+      "venue": "ICLR",
+      "index": 2900,
+      "similarity_score": 0.4198283154665614,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "On the Convergence of Encoder-only Shallow Transformers",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 18160,
+      "similarity_score": 0.4174469763788474,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "On the Convergence of Encoder-only Shallow Transformers",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 18160,
+      "similarity_score": 0.4174469763788474,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "JoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention",
+      "year": "2024",
+      "venue": "ICLR",
+      "index": 4870,
+      "similarity_score": 0.4171993636438459,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Understanding Attention for Text Classification",
+      "year": "2020",
+      "venue": "ACL",
+      "index": 4585,
+      "similarity_score": 0.4157051314235892,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Transformer in Transformer",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 11819,
+      "similarity_score": 0.41549852757218875,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Transformer in Transformer",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 11819,
+      "similarity_score": 0.41549852757218875,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "ClusterFormer: Neural Clustering Attention for Efficient and Effective Transformer",
+      "year": "2022",
+      "venue": "ACL",
+      "index": 5915,
+      "similarity_score": 0.4153644584470756,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "More Identifiable yet Equally Performant Transformers for Text Classification",
+      "year": "2021",
+      "venue": "ACL",
+      "index": 5691,
+      "similarity_score": 0.41468656853562647,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Convolutions and Self-Attention: Re-interpreting Relative Positions in Pre-trained Language Models",
+      "year": "2021",
+      "venue": "ACL",
+      "index": 5386,
+      "similarity_score": 0.41172874485398037,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Co-Scale Conv-Attentional Image Transformers",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 2466,
+      "similarity_score": 0.411646052737202,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer",
+      "year": "2022",
+      "venue": "ECCV",
+      "index": 3135,
+      "similarity_score": 0.4092346207996512,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Self-attention Networks Localize When QK-eigenspectrum Concentrates",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 8520,
+      "similarity_score": 0.409199133153205,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Attend and Rectify: a Gated Attention Mechanism for Fine-Grained Recovery",
+      "year": "2018",
+      "venue": "ECCV",
+      "index": 20,
+      "similarity_score": 0.408471762841604,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "EIT: Enhanced Interactive Transformer",
+      "year": "2024",
+      "venue": "ACL",
+      "index": 7965,
+      "similarity_score": 0.4084263706857578,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Multi Resolution Analysis (MRA) for Approximate Self-Attention",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 5442,
+      "similarity_score": 0.40795268225534387,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Mixture of Attention Heads: Selecting Attention Heads Per Token",
+      "year": "2022",
+      "venue": "EMNLP",
+      "index": 5432,
+      "similarity_score": 0.4079235166361743,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "On the Integration of Self-Attention and Convolution",
+      "year": "2022",
+      "venue": "CVPR",
+      "index": 5297,
+      "similarity_score": 0.4076696240207447,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "On the Relationship Between Self-Attention and Convolutional Layers",
+      "year": "2020",
+      "venue": "ICLR",
+      "index": 1336,
+      "similarity_score": 0.40763371490581346,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "KVT: k-NN Attention for Boosting Vision Transformers",
+      "year": "2022",
+      "venue": "ECCV",
+      "index": 3124,
+      "similarity_score": 0.4073638064879497,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Long-Short Transformer: Efficient Transformers for Language and Vision",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 11973,
+      "similarity_score": 0.40703649406241404,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Long-Short Transformer: Ef\ufb01cient Transformers for Language and Vision",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 11973,
+      "similarity_score": 0.40703649406241404,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "A Theoretical Understanding of Shallow Vision Transformers: Learning, Generalization, and Sample Complexity",
+      "year": "2023",
+      "venue": "ICLR",
+      "index": 3293,
+      "similarity_score": 0.4067630453092753,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 19131,
+      "similarity_score": 0.40675377300260296,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 19131,
+      "similarity_score": 0.40675377300260296,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Blockwise Parallel Transformers for Large Context Models",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 19603,
+      "similarity_score": 0.40619574872831876,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Learning Multiscale Transformer Models for Sequence Generation",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 6049,
+      "similarity_score": 0.4060124520841448,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Bottleneck Transformers for Visual Recognition",
+      "year": "2021",
+      "venue": "CVPR",
+      "index": 4769,
+      "similarity_score": 0.4057478120223449,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 2891,
+      "similarity_score": 0.4056208657146301,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Multi-Scale Self-Attention for Text Classification",
+      "year": "2020",
+      "venue": "AAAI",
+      "index": 11028,
+      "similarity_score": 0.403026516454542,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Transformer Dissection: An Unified Understanding for Transformer\u2019s Attention via the Lens of Kernel",
+      "year": "2019",
+      "venue": "EMNLP",
+      "index": 3542,
+      "similarity_score": 0.4029903966053682,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Pay Attention to MLPs",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 13583,
+      "similarity_score": 0.40285008974667547,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Lite Vision Transformer with Enhanced Self-Attention",
+      "year": "2022",
+      "venue": "CVPR",
+      "index": 5756,
+      "similarity_score": 0.40267265151444454,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Unraveling Attention via Convex Duality: Analysis and Interpretations of Vision Transformers",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 6328,
+      "similarity_score": 0.402645298209761,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "PatchFormer: An Efficient Point Transformer with Patch Attention",
+      "year": "2022",
+      "venue": "CVPR",
+      "index": 6716,
+      "similarity_score": 0.4022476848409092,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Designing Robust Transformers using Robust Kernel Density Estimation",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 18216,
+      "similarity_score": 0.4010298095063385,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Designing Robust Transformers using Robust Kernel Density Estimation",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 18216,
+      "similarity_score": 0.4010298095063385,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Neighborhood Attention Transformer",
+      "year": "2023",
+      "venue": "CVPR",
+      "index": 9398,
+      "similarity_score": 0.40030867692831706,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "ViViT: A Video Vision Transformer",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 3177,
+      "similarity_score": 0.400293082594368,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 2252,
+      "similarity_score": 0.44083350397426935,
+      "relevance": 5,
+      "importance": 4
+    },
+    {
+      "title": "Polynomial-based Self-Attention for Table Representation Learning",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 10933,
+      "similarity_score": 0.4401701547255563,
+      "relevance": 5,
+      "importance": 4
+    },
+    {
+      "title": "AiR: Attention with Reasoning Capability",
+      "year": "2020",
+      "venue": "ECCV",
+      "index": 781,
+      "similarity_score": 0.4230952441351864,
+      "relevance": 5,
+      "importance": 4
+    },
+    {
+      "title": "Attention Correctness in Neural Image Captioning",
+      "year": "2017",
+      "venue": "AAAI",
+      "index": 7813,
+      "similarity_score": 0.41279215198875874,
+      "relevance": 5,
+      "importance": 4
+    },
+    {
+      "title": "Frustratingly Short Attention Spans in Neural Language Modeling",
+      "year": "2017",
+      "venue": "ICLR",
+      "index": 331,
+      "similarity_score": 0.41131368268984514,
+      "relevance": 5,
+      "importance": 4
+    },
+    {
+      "title": "Blockwise Parallel Transformers for Large Context Models",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 19603,
+      "similarity_score": 0.40619574872831876,
+      "relevance": 5,
+      "importance": 4
+    },
+    {
+      "title": "Can Active Memory Replace Attention?",
+      "year": "2016",
+      "venue": "IJCAI",
+      "index": 6502,
+      "similarity_score": 0.4061363216719184,
+      "relevance": 5,
+      "importance": 4
+    },
+    {
+      "title": "Can Active Memory Replace Attention?",
+      "year": "2016",
+      "venue": "NIPS",
+      "index": 6502,
+      "similarity_score": 0.4061363216719184,
+      "relevance": 5,
+      "importance": 4
+    },
+    {
+      "title": "Doubly-Attentive Decoder for Multi-modal Neural Machine Translation",
+      "year": "2017",
+      "venue": "ACL",
+      "index": 3321,
+      "similarity_score": 0.4033538710269262,
+      "relevance": 5,
+      "importance": 4
+    },
+    {
+      "title": "Pay Attention to MLPs",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 13583,
+      "similarity_score": 0.40285008974667547,
+      "relevance": 5,
+      "importance": 4
+    },
+    {
+      "title": "Sparse MLP for Image Recognition: Is Self-Attention Really Necessary?",
+      "year": "2022",
+      "venue": "AAAI",
+      "index": 15220,
+      "similarity_score": 0.4006086360491691,
+      "relevance": 5,
+      "importance": 4
+    },
+    {
+      "title": "Improving Transformer Models by Reordering their Sublayers",
+      "year": "2020",
+      "venue": "ACL",
+      "index": 4538,
+      "similarity_score": 0.400546595888161,
+      "relevance": 5,
+      "importance": 4
+    },
+    {
+      "title": "Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention",
+      "year": "2022",
+      "venue": "AAAI",
+      "index": 15656,
+      "similarity_score": 0.4089524055020223,
+      "relevance": 4,
+      "importance": 5
+    },
+    {
+      "title": "Is Attention Interpretable?",
+      "year": "2019",
+      "venue": "ACL",
+      "index": 3891,
+      "similarity_score": 0.595549611529637,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Learning Attention Model from Human for Visuomotor Tasks",
+      "year": "2018",
+      "venue": "AAAI",
+      "index": 9237,
+      "similarity_score": 0.4579597494261256,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?",
+      "year": "2020",
+      "venue": "ACL",
+      "index": 4703,
+      "similarity_score": 0.45754241133217066,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Towards Transparent and Explainable Attention Models",
+      "year": "2020",
+      "venue": "ACL",
+      "index": 4667,
+      "similarity_score": 0.4560067487598277,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Adder Attention for Vision Transformer",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 12157,
+      "similarity_score": 0.4530699142087402,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Neural encoding with visual attention",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10054,
+      "similarity_score": 0.4489472780747985,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Learning Dictionary for Visual Attention",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 18379,
+      "similarity_score": 0.44822934865726394,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Learning Dictionary for Visual Attention",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 18379,
+      "similarity_score": 0.44822934865726394,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Attention Meets Post-hoc Interpretability: A Mathematical Perspective",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 8711,
+      "similarity_score": 0.44805840103970385,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Attentional Push: A Deep Convolutional Network for Augmenting Image Salience with Shared Attention Modeling in Social Scenes",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 2729,
+      "similarity_score": 0.44166143666641733,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Boosted Attention: Leveraging Human Attention for Image Captioning",
+      "year": "2018",
+      "venue": "ECCV",
+      "index": 731,
+      "similarity_score": 0.43638991958891726,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Learning Generative Models with Visual Attention",
+      "year": "2014",
+      "venue": "NIPS",
+      "index": 5422,
+      "similarity_score": 0.4324683660692211,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Paying Attention to Descriptions Generated by Image Captioning Models",
+      "year": "2017",
+      "venue": "ICCV",
+      "index": 1160,
+      "similarity_score": 0.421122729478028,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Recurrent Mixture Density Network for Spatiotemporal Visual Attention",
+      "year": "2017",
+      "venue": "ICLR",
+      "index": 264,
+      "similarity_score": 0.41932183678800605,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Saccader: Improving Accuracy of Hard Attention Models for Vision",
+      "year": "2019",
+      "venue": "IJCAI",
+      "index": 9449,
+      "similarity_score": 0.41885969659408406,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Teacher-generated spatial-attention labels boost robustness and accuracy of contrastive models",
+      "year": "2023",
+      "venue": "CVPR",
+      "index": 8340,
+      "similarity_score": 0.41624064928076865,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Recurrent Models of Visual Attention",
+      "year": "2014",
+      "venue": "IJCAI",
+      "index": 5224,
+      "similarity_score": 0.4111936906121346,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Recurrent Models of Visual Attention",
+      "year": "2014",
+      "venue": "NIPS",
+      "index": 5224,
+      "similarity_score": 0.4111936906121346,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Passive Attention in Artificial Neural Networks Predicts Human Visual Selectivity",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 12772,
+      "similarity_score": 0.4080488613636457,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Passive Attention in Artificial Neural Networks Predicts Human Visual Selectivity",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 12772,
+      "similarity_score": 0.4080488613636457,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "MARTA: Leveraging Human Rationales for Explainable Text Classification",
+      "year": "2021",
+      "venue": "AAAI",
+      "index": 14368,
+      "similarity_score": 0.406367286401758,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Exploring Human-Like Attention Supervision in Visual Question Answering",
+      "year": "2018",
+      "venue": "AAAI",
+      "index": 9130,
+      "similarity_score": 0.4050316527724478,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "LEARNING WHAT AND WHERE TO ATTEND",
+      "year": "2019",
+      "venue": "ICLR",
+      "index": 591,
+      "similarity_score": 0.46328416079850687,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning Visual Question Answering by Bootstrapping Hard Attention",
+      "year": "2018",
+      "venue": "ECCV",
+      "index": 431,
+      "similarity_score": 0.4624202346977305,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Focus of Attention Improves Information Transfer in Visual Features",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10636,
+      "similarity_score": 0.45649480926558395,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Focus of Attention Improves Information Transfer in Visual Features",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10636,
+      "similarity_score": 0.45649480926558395,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Neural encoding with visual attention",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10054,
+      "similarity_score": 0.4489472780747985,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Predicting When Saliency Maps are Accurate and Eye Fixations Consistent",
+      "year": "2016",
+      "venue": "CVPR",
+      "index": 2447,
+      "similarity_score": 0.4478084280811857,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Human Attention in Visual Question Answering: Do Humans and Deep Networks Look at the Same Regions?",
+      "year": "2016",
+      "venue": "EMNLP",
+      "index": 2280,
+      "similarity_score": 0.4454756421629562,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learned Region Sparsity and Diversity Also Predict Visual Attention",
+      "year": "2016",
+      "venue": "IJCAI",
+      "index": 6296,
+      "similarity_score": 0.4450194025278258,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learned Region Sparsity and Diversity Also Predict Visual Attention",
+      "year": "2016",
+      "venue": "NIPS",
+      "index": 6296,
+      "similarity_score": 0.4450194025278258,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "What went wrong and when? Instance-wise feature importance for time-series black-box models",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 11221,
+      "similarity_score": 0.43535057830463864,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "What went wrong and when? Instance-wise feature importance for time-series black-box models",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 11221,
+      "similarity_score": 0.43535057830463864,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning Generative Models with Visual Attention",
+      "year": "2014",
+      "venue": "IJCAI",
+      "index": 5422,
+      "similarity_score": 0.4324683660692211,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "What Do Deep Saliency Models Learn about Visual Attention?",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 19639,
+      "similarity_score": 0.4191305322426151,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "What Do Deep Saliency Models Learn about Visual Attention?",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 19639,
+      "similarity_score": 0.4191305322426151,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Saccader: Improving Accuracy of Hard Attention Models for Vision",
+      "year": "2019",
+      "venue": "NIPS",
+      "index": 9449,
+      "similarity_score": 0.41885969659408406,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning from Observer Gaze: Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition",
+      "year": "2024",
+      "venue": "CVPR",
+      "index": 11130,
+      "similarity_score": 0.41560225096637404,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "An Integrated Model for Effective Saliency Prediction",
+      "year": "2017",
+      "venue": "AAAI",
+      "index": 8405,
+      "similarity_score": 0.4056067043735305,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Video Saliency Detection via Dynamic Consistent Spatio-Temporal Attention Modelling",
+      "year": "2013",
+      "venue": "AAAI",
+      "index": 5801,
+      "similarity_score": 0.4045588915727011,
+      "relevance": 3,
+      "importance": 3
+    }
+  ],
+  "visual_attention": [
+    {
+      "title": "Variational Laws of Visual Attention for Dynamic Scenes",
+      "year": "2017",
+      "venue": "IJCAI",
+      "index": 7212,
+      "similarity_score": 0.5024444836239189,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Variational Laws of Visual Attention for Dynamic Scenes",
+      "year": "2017",
+      "venue": "NIPS",
+      "index": 7212,
+      "similarity_score": 0.5024444836239189,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Learning from Unique Perspectives: User-aware Saliency Modeling",
+      "year": "2023",
+      "venue": "CVPR",
+      "index": 7485,
+      "similarity_score": 0.48731932839251135,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention",
+      "year": "2015",
+      "venue": "ICML",
+      "index": 724,
+      "similarity_score": 0.4795108660625951,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "LEARNING WHAT AND WHERE TO ATTEND",
+      "year": "2019",
+      "venue": "ICLR",
+      "index": 591,
+      "similarity_score": 0.46328416079850687,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Learning Visual Question Answering by Bootstrapping Hard Attention",
+      "year": "2018",
+      "venue": "ECCV",
+      "index": 431,
+      "similarity_score": 0.4624202346977305,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Text-Guided Attention Model for Image Captioning",
+      "year": "2017",
+      "venue": "AAAI",
+      "index": 7833,
+      "similarity_score": 0.45971423843593706,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Learning Attention Model from Human for Visuomotor Tasks",
+      "year": "2018",
+      "venue": "AAAI",
+      "index": 9237,
+      "similarity_score": 0.4579597494261256,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "An Object-Based Bayesian Framework for Top-Down Visual Attention",
+      "year": "2012",
+      "venue": "AAAI",
+      "index": 5181,
+      "similarity_score": 0.45654496401531186,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Focus of Attention Improves Information Transfer in Visual Features",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10636,
+      "similarity_score": 0.45649480926558395,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Focus of Attention Improves Information Transfer in Visual Features",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10636,
+      "similarity_score": 0.45649480926558395,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Adder Attention for Vision Transformer",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 12157,
+      "similarity_score": 0.4530699142087402,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Connecting Gaze, Scene, and Attention: Generalized Attention Estimation via Joint Modeling of Gaze and Scene Saliency",
+      "year": "2018",
+      "venue": "ECCV",
+      "index": 275,
+      "similarity_score": 0.45213151462664514,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Neural encoding with visual attention",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10054,
+      "similarity_score": 0.4489472780747985,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Neural encoding with visual attention",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10054,
+      "similarity_score": 0.4489472780747985,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Learning Dictionary for Visual Attention",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 18379,
+      "similarity_score": 0.44822934865726394,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Learning Dictionary for Visual Attention",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 18379,
+      "similarity_score": 0.44822934865726394,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Predicting When Saliency Maps are Accurate and Eye Fixations Consistent",
+      "year": "2016",
+      "venue": "CVPR",
+      "index": 2447,
+      "similarity_score": 0.4478084280811857,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Human Attention in Visual Question Answering: Do Humans and Deep Networks Look at the Same Regions?",
+      "year": "2016",
+      "venue": "EMNLP",
+      "index": 2280,
+      "similarity_score": 0.4454756421629562,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Learned Region Sparsity and Diversity Also Predict Visual Attention",
+      "year": "2016",
+      "venue": "IJCAI",
+      "index": 6296,
+      "similarity_score": 0.4450194025278258,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Learned Region Sparsity and Diversity Also Predict Visual Attention",
+      "year": "2016",
+      "venue": "NIPS",
+      "index": 6296,
+      "similarity_score": 0.4450194025278258,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Attentional Push: A Deep Convolutional Network for Augmenting Image Salience with Shared Attention Modeling in Social Scenes",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 2729,
+      "similarity_score": 0.44166143666641733,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Deep Reinforced Attention Learning for Quality-Aware Visual Recognition",
+      "year": "2020",
+      "venue": "ECCV",
+      "index": 1492,
+      "similarity_score": 0.4410567558308315,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Scaling Local Self-Attention for Parameter Efficient Visual Backbones",
+      "year": "2021",
+      "venue": "CVPR",
+      "index": 4934,
+      "similarity_score": 0.4410270001557828,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 2252,
+      "similarity_score": 0.44083350397426935,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Boosted Attention: Leveraging Human Attention for Image Captioning",
+      "year": "2018",
+      "venue": "ECCV",
+      "index": 731,
+      "similarity_score": 0.43638991958891726,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Stand-Alone Self-Attention in Vision Models",
+      "year": "2019",
+      "venue": "IJCAI",
+      "index": 8889,
+      "similarity_score": 0.43524563265184646,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Stand-Alone Self-Attention in Vision Models",
+      "year": "2019",
+      "venue": "NIPS",
+      "index": 8889,
+      "similarity_score": 0.43524563265184646,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Focal Attention for Long-Range Interactions in Vision Transformers",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 13018,
+      "similarity_score": 0.4331012431464607,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Focal Attention for Long-Range Interactions in Vision Transformers",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 13018,
+      "similarity_score": 0.4331012431464607,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Learning Generative Models with Visual Attention",
+      "year": "2014",
+      "venue": "IJCAI",
+      "index": 5422,
+      "similarity_score": 0.4324683660692211,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Learning Generative Models with Visual Attention",
+      "year": "2014",
+      "venue": "NIPS",
+      "index": 5422,
+      "similarity_score": 0.4324683660692211,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Exploiting the Social-Like Prior in Transformer for Visual Reasoning",
+      "year": "2024",
+      "venue": "AAAI",
+      "index": 17994,
+      "similarity_score": 0.4290783264560959,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Residual Attention Network for Image Classification",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 2804,
+      "similarity_score": 0.4275197781450115,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Shunted Self-Attention via Multi-Scale Token Aggregation",
+      "year": "2022",
+      "venue": "CVPR",
+      "index": 5664,
+      "similarity_score": 0.42459887510266103,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "AiR: Attention with Reasoning Capability",
+      "year": "2020",
+      "venue": "ECCV",
+      "index": 781,
+      "similarity_score": 0.4230952441351864,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Paying Attention to Descriptions Generated by Image Captioning Models",
+      "year": "2017",
+      "venue": "ICCV",
+      "index": 1160,
+      "similarity_score": 0.421122729478028,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Recurrent Mixture Density Network for Spatiotemporal Visual Attention",
+      "year": "2017",
+      "venue": "ICLR",
+      "index": 264,
+      "similarity_score": 0.41932183678800605,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "What Do Deep Saliency Models Learn about Visual Attention?",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 19639,
+      "similarity_score": 0.4191305322426151,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "What Do Deep Saliency Models Learn about Visual Attention?",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 19639,
+      "similarity_score": 0.4191305322426151,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Saccader: Improving Accuracy of Hard Attention Models for Vision",
+      "year": "2019",
+      "venue": "IJCAI",
+      "index": 9449,
+      "similarity_score": 0.41885969659408406,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Saccader: Improving Accuracy of Hard Attention Models for Vision",
+      "year": "2019",
+      "venue": "NIPS",
+      "index": 9449,
+      "similarity_score": 0.41885969659408406,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Teacher-generated spatial-attention labels boost robustness and accuracy of contrastive models",
+      "year": "2023",
+      "venue": "CVPR",
+      "index": 8340,
+      "similarity_score": 0.41624064928076865,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Learning from Observer Gaze: Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition",
+      "year": "2024",
+      "venue": "CVPR",
+      "index": 11130,
+      "similarity_score": 0.41560225096637404,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Transformer in Transformer",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 11819,
+      "similarity_score": 0.41549852757218875,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Transformer in Transformer",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 11819,
+      "similarity_score": 0.41549852757218875,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Attention Correctness in Neural Image Captioning",
+      "year": "2017",
+      "venue": "AAAI",
+      "index": 7813,
+      "similarity_score": 0.41279215198875874,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Co-Scale Conv-Attentional Image Transformers",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 2466,
+      "similarity_score": 0.411646052737202,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Recurrent Models of Visual Attention",
+      "year": "2014",
+      "venue": "IJCAI",
+      "index": 5224,
+      "similarity_score": 0.4111936906121346,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Recurrent Models of Visual Attention",
+      "year": "2014",
+      "venue": "NIPS",
+      "index": 5224,
+      "similarity_score": 0.4111936906121346,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer",
+      "year": "2022",
+      "venue": "ECCV",
+      "index": 3135,
+      "similarity_score": 0.4092346207996512,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Analysis of scores, datasets, and models in visual saliency prediction",
+      "year": "2013",
+      "venue": "ICCV",
+      "index": 11,
+      "similarity_score": 0.40899240286125915,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention",
+      "year": "2022",
+      "venue": "AAAI",
+      "index": 15656,
+      "similarity_score": 0.4089524055020223,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Passive Attention in Artificial Neural Networks Predicts Human Visual Selectivity",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 12772,
+      "similarity_score": 0.4080488613636457,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Passive Attention in Artificial Neural Networks Predicts Human Visual Selectivity",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 12772,
+      "similarity_score": 0.4080488613636457,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "On the Integration of Self-Attention and Convolution",
+      "year": "2022",
+      "venue": "CVPR",
+      "index": 5297,
+      "similarity_score": 0.4076696240207447,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "On the Relationship Between Self-Attention and Convolutional Layers",
+      "year": "2020",
+      "venue": "ICLR",
+      "index": 1336,
+      "similarity_score": 0.40763371490581346,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "KVT: k-NN Attention for Boosting Vision Transformers",
+      "year": "2022",
+      "venue": "ECCV",
+      "index": 3124,
+      "similarity_score": 0.4073638064879497,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "A Theoretical Understanding of Shallow Vision Transformers: Learning, Generalization, and Sample Complexity",
+      "year": "2023",
+      "venue": "ICLR",
+      "index": 3293,
+      "similarity_score": 0.4067630453092753,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Bottleneck Transformers for Visual Recognition",
+      "year": "2021",
+      "venue": "CVPR",
+      "index": 4769,
+      "similarity_score": 0.4057478120223449,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 2891,
+      "similarity_score": 0.4056208657146301,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "An Integrated Model for Effective Saliency Prediction",
+      "year": "2017",
+      "venue": "AAAI",
+      "index": 8405,
+      "similarity_score": 0.4056067043735305,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Exploring Human-Like Attention Supervision in Visual Question Answering",
+      "year": "2018",
+      "venue": "AAAI",
+      "index": 9130,
+      "similarity_score": 0.4050316527724478,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Video Saliency Detection via Dynamic Consistent Spatio-Temporal Attention Modelling",
+      "year": "2013",
+      "venue": "AAAI",
+      "index": 5801,
+      "similarity_score": 0.4045588915727011,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Lite Vision Transformer with Enhanced Self-Attention",
+      "year": "2022",
+      "venue": "CVPR",
+      "index": 5756,
+      "similarity_score": 0.40267265151444454,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Unraveling Attention via Convex Duality: Analysis and Interpretations of Vision Transformers",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 6328,
+      "similarity_score": 0.402645298209761,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Sparse MLP for Image Recognition: Is Self-Attention Really Necessary?",
+      "year": "2022",
+      "venue": "AAAI",
+      "index": 15220,
+      "similarity_score": 0.4006086360491691,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Neighborhood Attention Transformer",
+      "year": "2023",
+      "venue": "CVPR",
+      "index": 9398,
+      "similarity_score": 0.40030867692831706,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "ViViT: A Video Vision Transformer",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 3177,
+      "similarity_score": 0.400293082594368,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Adder Attention for Vision Transformer",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 12157,
+      "similarity_score": 0.4530699142087402,
+      "relevance": 5,
+      "importance": 4
+    },
+    {
+      "title": "Modify Self-Attention via Skeleton Decomposition for Effective Point Cloud Transformer",
+      "year": "2022",
+      "venue": "AAAI",
+      "index": 16011,
+      "similarity_score": 0.45603810601511985,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "PIDformer: Transformer Meets Control Theory",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 8937,
+      "similarity_score": 0.45414562822328375,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Supervising Neural Attention Models for Video Captioning by Human Gaze Data",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 3024,
+      "similarity_score": 0.44015481327269834,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "SAC: Accelerating and Structuring Self-Attention via Sparse Adaptive Connection",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10153,
+      "similarity_score": 0.44001733025285583,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "BA-Net: Bridge Attention for Deep Convolutional Neural Networks",
+      "year": "2022",
+      "venue": "ECCV",
+      "index": 2996,
+      "similarity_score": 0.426356946594596,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "SPIKFORMER: WHEN SPIKING NEURAL NETWORK MEETS TRANSFORMER",
+      "year": "2023",
+      "venue": "ICLR",
+      "index": 2900,
+      "similarity_score": 0.4198283154665614,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Attend and Rectify: a Gated Attention Mechanism for Fine-Grained Recovery",
+      "year": "2018",
+      "venue": "ECCV",
+      "index": 20,
+      "similarity_score": 0.408471762841604,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Long-Short Transformer: Efficient Transformers for Language and Vision",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 11973,
+      "similarity_score": 0.40703649406241404,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Long-Short Transformer: Ef\ufb01cient Transformers for Language and Vision",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 11973,
+      "similarity_score": 0.40703649406241404,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Doubly-Attentive Decoder for Multi-modal Neural Machine Translation",
+      "year": "2017",
+      "venue": "ACL",
+      "index": 3321,
+      "similarity_score": 0.4033538710269262,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Pay Attention to MLPs",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 13583,
+      "similarity_score": 0.40285008974667547,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Designing Robust Transformers using Robust Kernel Density Estimation",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 18216,
+      "similarity_score": 0.4010298095063385,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Pay Attention to MLPs",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 13583,
+      "similarity_score": 0.40285008974667547,
+      "relevance": 4,
+      "importance": 3
+    },
+    {
+      "title": "Point Transformer",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 3120,
+      "similarity_score": 0.4579268327374386,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "Attention as Implicit Structural Inference",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 16838,
+      "similarity_score": 0.44652530942512003,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "PatchFormer: An Efficient Point Transformer with Patch Attention",
+      "year": "2022",
+      "venue": "CVPR",
+      "index": 6716,
+      "similarity_score": 0.4022476848409092,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "Designing Robust Transformers using Robust Kernel Density Estimation",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 18216,
+      "similarity_score": 0.4010298095063385,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "A PRIMAL-DUAL FRAMEWORK FOR TRANSFORMERS AND NEURAL NETWORKS",
+      "year": "2023",
+      "venue": "ICLR",
+      "index": 3647,
+      "similarity_score": 0.5247013070918548,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "White-Box Transformers via Sparse Rate Reduction",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 19634,
+      "similarity_score": 0.45469964854695943,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "White-Box Transformers via Sparse Rate Reduction",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 19634,
+      "similarity_score": 0.45469964854695943,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Area Attention",
+      "year": "2019",
+      "venue": "ICML",
+      "index": 2559,
+      "similarity_score": 0.4453033036993952,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "SAC: Accelerating and Structuring Self-Attention via Sparse Adaptive Connection",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10153,
+      "similarity_score": 0.44001733025285583,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "AttCAT: Explaining Transformers via Attentive Class Activation Tokens",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 16040,
+      "similarity_score": 0.4369992787246878,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "FourierFormer: Transformer Meets Generalized Fourier Integral Theorem",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 15163,
+      "similarity_score": 0.42922348020236734,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "FourierFormer: Transformer Meets Generalized Fourier Integral Theorem",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 15163,
+      "similarity_score": 0.42922348020236734,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Self-attention Networks Localize When QK-eigenspectrum Concentrates",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 8520,
+      "similarity_score": 0.409199133153205,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning Multiscale Transformer Models for Sequence Generation",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 6049,
+      "similarity_score": 0.4060124520841448,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "AttCAT: Explaining Transformers via Attentive Class Activation Tokens",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 16040,
+      "similarity_score": 0.4369992787246878,
+      "relevance": 3,
+      "importance": 2
+    },
+    {
+      "title": "Improving Transformer with an Admixture of Attention Heads",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 15052,
+      "similarity_score": 0.42621971645584444,
+      "relevance": 3,
+      "importance": 2
+    }
+  ],
+  "cognitive_attention": [
+    {
+      "title": "Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?",
+      "year": "2020",
+      "venue": "ACL",
+      "index": 4703,
+      "similarity_score": 0.45754241133217066,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Passive Attention in Artificial Neural Networks Predicts Human Visual Selectivity",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 12772,
+      "similarity_score": 0.4080488613636457,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Attention as Implicit Structural Inference",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 16838,
+      "similarity_score": 0.44652530942512003,
+      "relevance": 4,
+      "importance": 5
+    },
+    {
+      "title": "Variational Laws of Visual Attention for Dynamic Scenes",
+      "year": "2017",
+      "venue": "IJCAI",
+      "index": 7212,
+      "similarity_score": 0.5024444836239189,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Variational Laws of Visual Attention for Dynamic Scenes",
+      "year": "2017",
+      "venue": "NIPS",
+      "index": 7212,
+      "similarity_score": 0.5024444836239189,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "LEARNING WHAT AND WHERE TO ATTEND",
+      "year": "2019",
+      "venue": "ICLR",
+      "index": 591,
+      "similarity_score": 0.46328416079850687,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Learning Attention Model from Human for Visuomotor Tasks",
+      "year": "2018",
+      "venue": "AAAI",
+      "index": 9237,
+      "similarity_score": 0.4579597494261256,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Focus of Attention Improves Information Transfer in Visual Features",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10636,
+      "similarity_score": 0.45649480926558395,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Attention as Implicit Structural Inference",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 16838,
+      "similarity_score": 0.44652530942512003,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Human Attention in Visual Question Answering: Do Humans and Deep Networks Look at the Same Regions?",
+      "year": "2016",
+      "venue": "EMNLP",
+      "index": 2280,
+      "similarity_score": 0.4454756421629562,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Learned Region Sparsity and Diversity Also Predict Visual Attention",
+      "year": "2016",
+      "venue": "NIPS",
+      "index": 6296,
+      "similarity_score": 0.4450194025278258,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "What Do Deep Saliency Models Learn about Visual Attention?",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 19639,
+      "similarity_score": 0.4191305322426151,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "What Do Deep Saliency Models Learn about Visual Attention?",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 19639,
+      "similarity_score": 0.4191305322426151,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Learning from Observer Gaze: Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition",
+      "year": "2024",
+      "venue": "CVPR",
+      "index": 11130,
+      "similarity_score": 0.41560225096637404,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Passive Attention in Artificial Neural Networks Predicts Human Visual Selectivity",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 12772,
+      "similarity_score": 0.4080488613636457,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Video Saliency Detection via Dynamic Consistent Spatio-Temporal Attention Modelling",
+      "year": "2013",
+      "venue": "AAAI",
+      "index": 5801,
+      "similarity_score": 0.4045588915727011,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Saccader: Improving Accuracy of Hard Attention Models for Vision",
+      "year": "2019",
+      "venue": "NIPS",
+      "index": 9449,
+      "similarity_score": 0.41885969659408406,
+      "relevance": 4,
+      "importance": 3
+    },
+    {
+      "title": "Recurrent Models of Visual Attention",
+      "year": "2014",
+      "venue": "NIPS",
+      "index": 5224,
+      "similarity_score": 0.4111936906121346,
+      "relevance": 4,
+      "importance": 3
+    },
+    {
+      "title": "An Object-Based Bayesian Framework for Top-Down Visual Attention",
+      "year": "2012",
+      "venue": "AAAI",
+      "index": 5181,
+      "similarity_score": 0.45654496401531186,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "Predicting When Saliency Maps are Accurate and Eye Fixations Consistent",
+      "year": "2016",
+      "venue": "CVPR",
+      "index": 2447,
+      "similarity_score": 0.4478084280811857,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "Analysis of scores, datasets, and models in visual saliency prediction",
+      "year": "2013",
+      "venue": "ICCV",
+      "index": 11,
+      "similarity_score": 0.40899240286125915,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "Is Attention Explanation? An Introduction to the Debate",
+      "year": "2022",
+      "venue": "ACL",
+      "index": 6024,
+      "similarity_score": 0.492614321264632,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning from Unique Perspectives: User-aware Saliency Modeling",
+      "year": "2023",
+      "venue": "CVPR",
+      "index": 7485,
+      "similarity_score": 0.48731932839251135,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Focus of Attention Improves Information Transfer in Visual Features",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10636,
+      "similarity_score": 0.45649480926558395,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Connecting Gaze, Scene, and Attention: Generalized Attention Estimation via Joint Modeling of Gaze and Scene Saliency",
+      "year": "2018",
+      "venue": "ECCV",
+      "index": 275,
+      "similarity_score": 0.45213151462664514,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Neural encoding with visual attention",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10054,
+      "similarity_score": 0.4489472780747985,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Neural encoding with visual attention",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10054,
+      "similarity_score": 0.4489472780747985,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning Dictionary for Visual Attention",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 18379,
+      "similarity_score": 0.44822934865726394,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning Dictionary for Visual Attention",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 18379,
+      "similarity_score": 0.44822934865726394,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learned Region Sparsity and Diversity Also Predict Visual Attention",
+      "year": "2016",
+      "venue": "IJCAI",
+      "index": 6296,
+      "similarity_score": 0.4450194025278258,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Attentional Push: A Deep Convolutional Network for Augmenting Image Salience with Shared Attention Modeling in Social Scenes",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 2729,
+      "similarity_score": 0.44166143666641733,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Supervising Neural Attention Models for Video Captioning by Human Gaze Data",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 3024,
+      "similarity_score": 0.44015481327269834,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Boosted Attention: Leveraging Human Attention for Image Captioning",
+      "year": "2018",
+      "venue": "ECCV",
+      "index": 731,
+      "similarity_score": 0.43638991958891726,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning Generative Models with Visual Attention",
+      "year": "2014",
+      "venue": "NIPS",
+      "index": 5422,
+      "similarity_score": 0.4324683660692211,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Exploiting the Social-Like Prior in Transformer for Visual Reasoning",
+      "year": "2024",
+      "venue": "AAAI",
+      "index": 17994,
+      "similarity_score": 0.4290783264560959,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "AiR: Attention with Reasoning Capability",
+      "year": "2020",
+      "venue": "ECCV",
+      "index": 781,
+      "similarity_score": 0.4230952441351864,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Paying Attention to Descriptions Generated by Image Captioning Models",
+      "year": "2017",
+      "venue": "ICCV",
+      "index": 1160,
+      "similarity_score": 0.421122729478028,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Recurrent Models of Visual Attention",
+      "year": "2014",
+      "venue": "IJCAI",
+      "index": 5224,
+      "similarity_score": 0.4111936906121346,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "MARTA: Leveraging Human Rationales for Explainable Text Classification",
+      "year": "2021",
+      "venue": "AAAI",
+      "index": 14368,
+      "similarity_score": 0.406367286401758,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Exploring Human-Like Attention Supervision in Visual Question Answering",
+      "year": "2018",
+      "venue": "AAAI",
+      "index": 9130,
+      "similarity_score": 0.4050316527724478,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning Visual Question Answering by Bootstrapping Hard Attention",
+      "year": "2018",
+      "venue": "ECCV",
+      "index": 431,
+      "similarity_score": 0.4624202346977305,
+      "relevance": 3,
+      "importance": 2
+    },
+    {
+      "title": "Text-Guided Attention Model for Image Captioning",
+      "year": "2017",
+      "venue": "AAAI",
+      "index": 7833,
+      "similarity_score": 0.45971423843593706,
+      "relevance": 3,
+      "importance": 2
+    },
+    {
+      "title": "Teacher-generated spatial-attention labels boost robustness and accuracy of contrastive models",
+      "year": "2023",
+      "venue": "CVPR",
+      "index": 8340,
+      "similarity_score": 0.41624064928076865,
+      "relevance": 3,
+      "importance": 2
+    }
+  ],
+  "temporal_attention": [
+    {
+      "title": "Partial Correlation-based Attention for Multivariate Time Series Forecasting",
+      "year": "2020",
+      "venue": "AAAI",
+      "index": 11707,
+      "similarity_score": 0.4376761992586212,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "What went wrong and when? Instance-wise feature importance for time-series black-box models",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 11221,
+      "similarity_score": 0.43535057830463864,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "What went wrong and when? Instance-wise feature importance for time-series black-box models",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 11221,
+      "similarity_score": 0.43535057830463864,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Recurrent Mixture Density Network for Spatiotemporal Visual Attention",
+      "year": "2017",
+      "venue": "ICLR",
+      "index": 264,
+      "similarity_score": 0.41932183678800605,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Video Saliency Detection via Dynamic Consistent Spatio-Temporal Attention Modelling",
+      "year": "2013",
+      "venue": "AAAI",
+      "index": 5801,
+      "similarity_score": 0.4045588915727011,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "ViViT: A Video Vision Transformer",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 3177,
+      "similarity_score": 0.400293082594368,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Adaptive Attention Span in Transformers",
+      "year": "2019",
+      "venue": "ACL",
+      "index": 3933,
+      "similarity_score": 0.4953248272392161,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Not All Attention Is Needed: Gated Attention Network for Sequence Data",
+      "year": "2020",
+      "venue": "AAAI",
+      "index": 12117,
+      "similarity_score": 0.4843918504417932,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention",
+      "year": "2020",
+      "venue": "ICML",
+      "index": 3518,
+      "similarity_score": 0.4815298686936609,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding",
+      "year": "2018",
+      "venue": "AAAI",
+      "index": 9529,
+      "similarity_score": 0.4626486706166596,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "An Object-Based Bayesian Framework for Top-Down Visual Attention",
+      "year": "2012",
+      "venue": "AAAI",
+      "index": 5181,
+      "similarity_score": 0.45654496401531186,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Focus of Attention Improves Information Transfer in Visual Features",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10636,
+      "similarity_score": 0.45649480926558395,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Focus of Attention Improves Information Transfer in Visual Features",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10636,
+      "similarity_score": 0.45649480926558395,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Surprisingly Easy Hard-Attention for Sequence to Sequence Learning",
+      "year": "2018",
+      "venue": "EMNLP",
+      "index": 3122,
+      "similarity_score": 0.4541929169873129,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Attention as Implicit Structural Inference",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 16838,
+      "similarity_score": 0.44652530942512003,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 9853,
+      "similarity_score": 0.4457884139257555,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Area Attention",
+      "year": "2019",
+      "venue": "ICML",
+      "index": 2559,
+      "similarity_score": 0.4453033036993952,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Supervising Neural Attention Models for Video Captioning by Human Gaze Data",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 3024,
+      "similarity_score": 0.44015481327269834,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "SAC: Accelerating and Structuring Self-Attention via Sparse Adaptive Connection",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10153,
+      "similarity_score": 0.44001733025285583,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Fast Transformers with Clustered Attention",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10588,
+      "similarity_score": 0.4306149162591061,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "FMMformer: Efficient and Flexible Transformer via Decomposed Near-field and Far-field Attention",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 12971,
+      "similarity_score": 0.427179105168498,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Improving Transformer with an Admixture of Attention Heads",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 15052,
+      "similarity_score": 0.42621971645584444,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Recurrent Models of Visual Attention",
+      "year": "2014",
+      "venue": "NIPS",
+      "index": 5224,
+      "similarity_score": 0.4111936906121346,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Blockwise Parallel Transformers for Large Context Models",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 19603,
+      "similarity_score": 0.40619574872831876,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Attention is not Explanation",
+      "year": "2019",
+      "venue": "EMNLP",
+      "index": 3271,
+      "similarity_score": 0.4359536154131325,
+      "relevance": 4,
+      "importance": 3
+    },
+    {
+      "title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention",
+      "year": "2015",
+      "venue": "ICML",
+      "index": 724,
+      "similarity_score": 0.4795108660625951,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 9853,
+      "similarity_score": 0.4457884139257555,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "FourierFormer: Transformer Meets Generalized Fourier Integral Theorem",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 15163,
+      "similarity_score": 0.42922348020236734,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "Look Harder: A Neural Machine Translation Model with Hard Attention",
+      "year": "2019",
+      "venue": "ACL",
+      "index": 3900,
+      "similarity_score": 0.4285103133787146,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "Designing Robust Transformers using Robust Kernel Density Estimation",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 18216,
+      "similarity_score": 0.4010298095063385,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "A PRIMAL-DUAL FRAMEWORK FOR TRANSFORMERS AND NEURAL NETWORKS",
+      "year": "2023",
+      "venue": "ICLR",
+      "index": 3647,
+      "similarity_score": 0.5247013070918548,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Variational Laws of Visual Attention for Dynamic Scenes",
+      "year": "2017",
+      "venue": "NIPS",
+      "index": 7212,
+      "similarity_score": 0.5024444836239189,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Modeling Localness for Self-Attention Networks",
+      "year": "2018",
+      "venue": "EMNLP",
+      "index": 3028,
+      "similarity_score": 0.48809065786710926,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Are Sixteen Heads Really Better than One?",
+      "year": "2019",
+      "venue": "NIPS",
+      "index": 8839,
+      "similarity_score": 0.4791165822947756,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "The emergence of clusters in self-attention dynamics",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 18404,
+      "similarity_score": 0.4740009664099174,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "The emergence of clusters in self-attention dynamics",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 18404,
+      "similarity_score": 0.4740009664099174,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "SparseBERT: Rethinking the Importance Analysis in Self-attention",
+      "year": "2021",
+      "venue": "ICML",
+      "index": 5135,
+      "similarity_score": 0.4712094541924954,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Representational Strengths and Limitations of Transformers",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 17407,
+      "similarity_score": 0.4682314000235641,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Linear Log-Normal Attention with Unbiased Concentration",
+      "year": "2024",
+      "venue": "ICLR",
+      "index": 4085,
+      "similarity_score": 0.46171912187275177,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Big Bird: Transformers for Longer Sequences",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10180,
+      "similarity_score": 0.4570990264858361,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Towards Transparent and Explainable Attention Models",
+      "year": "2020",
+      "venue": "ACL",
+      "index": 4667,
+      "similarity_score": 0.4560067487598277,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Inductive Biases and Variable Creation in Self-Attention Mechanisms",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 5682,
+      "similarity_score": 0.4555566204177314,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Nystr\u00a8omformer: A Nystr\u00a8om-based Algorithm for Approximating Self-Attention",
+      "year": "2021",
+      "venue": "AAAI",
+      "index": 13444,
+      "similarity_score": 0.4544907266188909,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "PIDformer: Transformer Meets Control Theory",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 8937,
+      "similarity_score": 0.45414562822328375,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Improving Transformers with Probabilistic Attention Keys",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 6209,
+      "similarity_score": 0.4481808376346279,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Attention as Implicit Structural Inference",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 16838,
+      "similarity_score": 0.44652530942512003,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Attention is not all you need: pure attention loses rank doubly exponentially with depth",
+      "year": "2021",
+      "venue": "ICML",
+      "index": 4455,
+      "similarity_score": 0.44255849019012317,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Jump Self-attention: Capturing High-order Statistics in Transformers",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 14247,
+      "similarity_score": 0.44235626961096797,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Jump Self-attention: Capturing High-order Statistics in Transformers",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 14247,
+      "similarity_score": 0.44235626961096797,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "SAC: Accelerating and Structuring Self-Attention via Sparse Adaptive Connection",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10153,
+      "similarity_score": 0.44001733025285583,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "AttCAT: Explaining Transformers via Attentive Class Activation Tokens",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 16040,
+      "similarity_score": 0.4369992787246878,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Continuous Self-Attention Models with Neural ODE Networks",
+      "year": "2021",
+      "venue": "AAAI",
+      "index": 13429,
+      "similarity_score": 0.43679427645353075,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "You Only Sample (Almost) Once: Linear Cost Self-Attention Via Bernoulli Sampling",
+      "year": "2021",
+      "venue": "ICML",
+      "index": 4233,
+      "similarity_score": 0.4347435793923847,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Focal Attention for Long-Range Interactions in Vision Transformers",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 13018,
+      "similarity_score": 0.4331012431464607,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Focal Attention for Long-Range Interactions in Vision Transformers",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 13018,
+      "similarity_score": 0.4331012431464607,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Fast Transformers with Clustered Attention",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10588,
+      "similarity_score": 0.4306149162591061,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "FourierFormer: Transformer Meets Generalized Fourier Integral Theorem",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 15163,
+      "similarity_score": 0.42922348020236734,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "FMMformer: Efficient and Flexible Transformer via Decomposed Near-field and Far-field Attention",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 12971,
+      "similarity_score": 0.427179105168498,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Energy Transformer",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 16964,
+      "similarity_score": 0.42669488002595635,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Energy Transformer",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 16964,
+      "similarity_score": 0.42669488002595635,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Improving Transformer with an Admixture of Attention Heads",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 15052,
+      "similarity_score": 0.42621971645584444,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "From Self-Attention to Markov Models: Unveiling the Dynamics of Generative Transformers",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 10777,
+      "similarity_score": 0.42305512033540404,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "SPIKFORMER: WHEN SPIKING NEURAL NETWORK MEETS TRANSFORMER",
+      "year": "2023",
+      "venue": "ICLR",
+      "index": 2900,
+      "similarity_score": 0.4198283154665614,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "On the Convergence of Encoder-only Shallow Transformers",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 18160,
+      "similarity_score": 0.4174469763788474,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "ClusterFormer: Neural Clustering Attention for Efficient and Effective Transformer",
+      "year": "2022",
+      "venue": "ACL",
+      "index": 5915,
+      "similarity_score": 0.4153644584470756,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Convolutions and Self-Attention: Re-interpreting Relative Positions in Pre-trained Language Models",
+      "year": "2021",
+      "venue": "ACL",
+      "index": 5386,
+      "similarity_score": 0.41172874485398037,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Frustratingly Short Attention Spans in Neural Language Modeling",
+      "year": "2017",
+      "venue": "ICLR",
+      "index": 331,
+      "similarity_score": 0.41131368268984514,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Recurrent Models of Visual Attention",
+      "year": "2014",
+      "venue": "IJCAI",
+      "index": 5224,
+      "similarity_score": 0.4111936906121346,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer",
+      "year": "2022",
+      "venue": "ECCV",
+      "index": 3135,
+      "similarity_score": 0.4092346207996512,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Self-attention Networks Localize When QK-eigenspectrum Concentrates",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 8520,
+      "similarity_score": 0.409199133153205,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Multi Resolution Analysis (MRA) for Approximate Self-Attention",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 5442,
+      "similarity_score": 0.40795268225534387,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Long-Short Transformer: Efficient Transformers for Language and Vision",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 11973,
+      "similarity_score": 0.40703649406241404,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Long-Short Transformer: Ef\ufb01cient Transformers for Language and Vision",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 11973,
+      "similarity_score": 0.40703649406241404,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 19131,
+      "similarity_score": 0.40675377300260296,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 19131,
+      "similarity_score": 0.40675377300260296,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Blockwise Parallel Transformers for Large Context Models",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 19603,
+      "similarity_score": 0.40619574872831876,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Can Active Memory Replace Attention?",
+      "year": "2016",
+      "venue": "IJCAI",
+      "index": 6502,
+      "similarity_score": 0.4061363216719184,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Can Active Memory Replace Attention?",
+      "year": "2016",
+      "venue": "NIPS",
+      "index": 6502,
+      "similarity_score": 0.4061363216719184,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning Multiscale Transformer Models for Sequence Generation",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 6049,
+      "similarity_score": 0.4060124520841448,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 2891,
+      "similarity_score": 0.4056208657146301,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Multi-Scale Self-Attention for Text Classification",
+      "year": "2020",
+      "venue": "AAAI",
+      "index": 11028,
+      "similarity_score": 0.403026516454542,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Transformer Dissection: An Unified Understanding for Transformer\u2019s Attention via the Lens of Kernel",
+      "year": "2019",
+      "venue": "EMNLP",
+      "index": 3542,
+      "similarity_score": 0.4029903966053682,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Designing Robust Transformers using Robust Kernel Density Estimation",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 18216,
+      "similarity_score": 0.4010298095063385,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Are Sixteen Heads Really Better than One?",
+      "year": "2019",
+      "venue": "IJCAI",
+      "index": 8839,
+      "similarity_score": 0.4791165822947756,
+      "relevance": 3,
+      "importance": 2
+    },
+    {
+      "title": "Representational Strengths and Limitations of Transformers",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 17407,
+      "similarity_score": 0.4682314000235641,
+      "relevance": 3,
+      "importance": 2
+    },
+    {
+      "title": "What Do Deep Saliency Models Learn about Visual Attention?",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 19639,
+      "similarity_score": 0.4191305322426151,
+      "relevance": 3,
+      "importance": 2
+    },
+    {
+      "title": "Pay Attention to MLPs",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 13583,
+      "similarity_score": 0.40285008974667547,
+      "relevance": 3,
+      "importance": 2
+    },
+    {
+      "title": "Pay Attention to MLPs",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 13583,
+      "similarity_score": 0.40285008974667547,
+      "relevance": 3,
+      "importance": 2
+    },
+    {
+      "title": "Improving Transformer Models by Reordering their Sublayers",
+      "year": "2020",
+      "venue": "ACL",
+      "index": 4538,
+      "similarity_score": 0.400546595888161,
+      "relevance": 3,
+      "importance": 2
+    }
+  ],
+  "interpretable_attention": [
+    {
+      "title": "Is Attention Interpretable?",
+      "year": "2019",
+      "venue": "ACL",
+      "index": 3891,
+      "similarity_score": 0.595549611529637,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Is Attention Explanation? An Introduction to the Debate",
+      "year": "2022",
+      "venue": "ACL",
+      "index": 6024,
+      "similarity_score": 0.492614321264632,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Self-Attention Attribution: Interpreting Information Interactions Inside Transformer",
+      "year": "2021",
+      "venue": "AAAI",
+      "index": 13244,
+      "similarity_score": 0.46266131467121285,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?",
+      "year": "2020",
+      "venue": "ACL",
+      "index": 4703,
+      "similarity_score": 0.45754241133217066,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Towards Transparent and Explainable Attention Models",
+      "year": "2020",
+      "venue": "ACL",
+      "index": 4667,
+      "similarity_score": 0.4560067487598277,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "White-Box Transformers via Sparse Rate Reduction",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 19634,
+      "similarity_score": 0.45469964854695943,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "White-Box Transformers via Sparse Rate Reduction",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 19634,
+      "similarity_score": 0.45469964854695943,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Learning to Deceive with Attention-Based Explanations",
+      "year": "2020",
+      "venue": "ACL",
+      "index": 4718,
+      "similarity_score": 0.45079887342357916,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Attention Meets Post-hoc Interpretability: A Mathematical Perspective",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 8711,
+      "similarity_score": 0.44805840103970385,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Improving the Faithfulness of Attention-based Explanations with Task-specific Information for Text Classification",
+      "year": "2021",
+      "venue": "ACL",
+      "index": 5460,
+      "similarity_score": 0.4451241795932238,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "AttCAT: Explaining Transformers via Attentive Class Activation Tokens",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 16040,
+      "similarity_score": 0.4369992787246878,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "AttCAT: Explaining Transformers via Attentive Class Activation Tokens",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 16040,
+      "similarity_score": 0.4369992787246878,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Attention is not Explanation",
+      "year": "2019",
+      "venue": "EMNLP",
+      "index": 3271,
+      "similarity_score": 0.4359536154131325,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "What Do Deep Saliency Models Learn about Visual Attention?",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 19639,
+      "similarity_score": 0.4191305322426151,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Saccader: Improving Accuracy of Hard Attention Models for Vision",
+      "year": "2019",
+      "venue": "IJCAI",
+      "index": 9449,
+      "similarity_score": 0.41885969659408406,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Understanding Attention for Text Classification",
+      "year": "2020",
+      "venue": "ACL",
+      "index": 4585,
+      "similarity_score": 0.4157051314235892,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "More Identifiable yet Equally Performant Transformers for Text Classification",
+      "year": "2021",
+      "venue": "ACL",
+      "index": 5691,
+      "similarity_score": 0.41468656853562647,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Passive Attention in Artificial Neural Networks Predicts Human Visual Selectivity",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 12772,
+      "similarity_score": 0.4080488613636457,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "MARTA: Leveraging Human Rationales for Explainable Text Classification",
+      "year": "2021",
+      "venue": "AAAI",
+      "index": 14368,
+      "similarity_score": 0.406367286401758,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Transformers from an Optimization Perspective",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 15775,
+      "similarity_score": 0.4510346007473006,
+      "relevance": 5,
+      "importance": 4
+    },
+    {
+      "title": "Saccader: Improving Accuracy of Hard Attention Models for Vision",
+      "year": "2019",
+      "venue": "NIPS",
+      "index": 9449,
+      "similarity_score": 0.41885969659408406,
+      "relevance": 5,
+      "importance": 4
+    },
+    {
+      "title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention",
+      "year": "2015",
+      "venue": "ICML",
+      "index": 724,
+      "similarity_score": 0.4795108660625951,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Are Sixteen Heads Really Better than One?",
+      "year": "2019",
+      "venue": "IJCAI",
+      "index": 8839,
+      "similarity_score": 0.4791165822947756,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "The emergence of clusters in self-attention dynamics",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 18404,
+      "similarity_score": 0.4740009664099174,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "SparseBERT: Rethinking the Importance Analysis in Self-attention",
+      "year": "2021",
+      "venue": "ICML",
+      "index": 5135,
+      "similarity_score": 0.4712094541924954,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "LEARNING WHAT AND WHERE TO ATTEND",
+      "year": "2019",
+      "venue": "ICLR",
+      "index": 591,
+      "similarity_score": 0.46328416079850687,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Transformers from an Optimization Perspective",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 15775,
+      "similarity_score": 0.4510346007473006,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Attention as Implicit Structural Inference",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 16838,
+      "similarity_score": 0.44652530942512003,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Human Attention in Visual Question Answering: Do Humans and Deep Networks Look at the Same Regions?",
+      "year": "2016",
+      "venue": "EMNLP",
+      "index": 2280,
+      "similarity_score": 0.4454756421629562,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "What went wrong and when? Instance-wise feature importance for time-series black-box models",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 11221,
+      "similarity_score": 0.43535057830463864,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "What went wrong and when? Instance-wise feature importance for time-series black-box models",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 11221,
+      "similarity_score": 0.43535057830463864,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "FourierFormer: Transformer Meets Generalized Fourier Integral Theorem",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 15163,
+      "similarity_score": 0.42922348020236734,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Exploiting the Social-Like Prior in Transformer for Visual Reasoning",
+      "year": "2024",
+      "venue": "AAAI",
+      "index": 17994,
+      "similarity_score": 0.4290783264560959,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "AiR: Attention with Reasoning Capability",
+      "year": "2020",
+      "venue": "ECCV",
+      "index": 781,
+      "similarity_score": 0.4230952441351864,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Paying Attention to Descriptions Generated by Image Captioning Models",
+      "year": "2017",
+      "venue": "ICCV",
+      "index": 1160,
+      "similarity_score": 0.421122729478028,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "What Do Deep Saliency Models Learn about Visual Attention?",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 19639,
+      "similarity_score": 0.4191305322426151,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Attention Correctness in Neural Image Captioning",
+      "year": "2017",
+      "venue": "AAAI",
+      "index": 7813,
+      "similarity_score": 0.41279215198875874,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "EIT: Enhanced Interactive Transformer",
+      "year": "2024",
+      "venue": "ACL",
+      "index": 7965,
+      "similarity_score": 0.4084263706857578,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Passive Attention in Artificial Neural Networks Predicts Human Visual Selectivity",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 12772,
+      "similarity_score": 0.4080488613636457,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Mixture of Attention Heads: Selecting Attention Heads Per Token",
+      "year": "2022",
+      "venue": "EMNLP",
+      "index": 5432,
+      "similarity_score": 0.4079235166361743,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Learning Multiscale Transformer Models for Sequence Generation",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 6049,
+      "similarity_score": 0.4060124520841448,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 2891,
+      "similarity_score": 0.4056208657146301,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Exploring Human-Like Attention Supervision in Visual Question Answering",
+      "year": "2018",
+      "venue": "AAAI",
+      "index": 9130,
+      "similarity_score": 0.4050316527724478,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Unraveling Attention via Convex Duality: Analysis and Interpretations of Vision Transformers",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 6328,
+      "similarity_score": 0.402645298209761,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Not All Attention Is Needed: Gated Attention Network for Sequence Data",
+      "year": "2020",
+      "venue": "AAAI",
+      "index": 12117,
+      "similarity_score": 0.4843918504417932,
+      "relevance": 4,
+      "importance": 3
+    },
+    {
+      "title": "Energy Transformer",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 16964,
+      "similarity_score": 0.42669488002595635,
+      "relevance": 4,
+      "importance": 3
+    },
+    {
+      "title": "Self-attention Networks Localize When QK-eigenspectrum Concentrates",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 8520,
+      "similarity_score": 0.409199133153205,
+      "relevance": 4,
+      "importance": 3
+    },
+    {
+      "title": "Are Sixteen Heads Really Better than One?",
+      "year": "2019",
+      "venue": "NIPS",
+      "index": 8839,
+      "similarity_score": 0.4791165822947756,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "Linear Log-Normal Attention with Unbiased Concentration",
+      "year": "2024",
+      "venue": "ICLR",
+      "index": 4085,
+      "similarity_score": 0.46171912187275177,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 9853,
+      "similarity_score": 0.4457884139257555,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "Jump Self-attention: Capturing High-order Statistics in Transformers",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 14247,
+      "similarity_score": 0.44235626961096797,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "Jump Self-attention: Capturing High-order Statistics in Transformers",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 14247,
+      "similarity_score": 0.44235626961096797,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "Partial Correlation-based Attention for Multivariate Time Series Forecasting",
+      "year": "2020",
+      "venue": "AAAI",
+      "index": 11707,
+      "similarity_score": 0.4376761992586212,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "Improving Transformer with an Admixture of Attention Heads",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 15052,
+      "similarity_score": 0.42621971645584444,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "The emergence of clusters in self-attention dynamics",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 18404,
+      "similarity_score": 0.4740009664099174,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Representational Strengths and Limitations of Transformers",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 17407,
+      "similarity_score": 0.4682314000235641,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Synthesizer: Rethinking Self-Attention for Transformer Models",
+      "year": "2021",
+      "venue": "ICML",
+      "index": 5200,
+      "similarity_score": 0.4641578649681376,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding",
+      "year": "2018",
+      "venue": "AAAI",
+      "index": 9529,
+      "similarity_score": 0.4626486706166596,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Text-Guided Attention Model for Image Captioning",
+      "year": "2017",
+      "venue": "AAAI",
+      "index": 7833,
+      "similarity_score": 0.45971423843593706,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning Attention Model from Human for Visuomotor Tasks",
+      "year": "2018",
+      "venue": "AAAI",
+      "index": 9237,
+      "similarity_score": 0.4579597494261256,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Point Transformer",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 3120,
+      "similarity_score": 0.4579268327374386,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Big Bird: Transformers for Longer Sequences",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10180,
+      "similarity_score": 0.4570990264858361,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "An Object-Based Bayesian Framework for Top-Down Visual Attention",
+      "year": "2012",
+      "venue": "AAAI",
+      "index": 5181,
+      "similarity_score": 0.45654496401531186,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Surprisingly Easy Hard-Attention for Sequence to Sequence Learning",
+      "year": "2018",
+      "venue": "EMNLP",
+      "index": 3122,
+      "similarity_score": 0.4541929169873129,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "PIDformer: Transformer Meets Control Theory",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 8937,
+      "similarity_score": 0.45414562822328375,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Adder Attention for Vision Transformer",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 12157,
+      "similarity_score": 0.4530699142087402,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Adder Attention for Vision Transformer",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 12157,
+      "similarity_score": 0.4530699142087402,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Connecting Gaze, Scene, and Attention: Generalized Attention Estimation via Joint Modeling of Gaze and Scene Saliency",
+      "year": "2018",
+      "venue": "ECCV",
+      "index": 275,
+      "similarity_score": 0.45213151462664514,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "On the Dynamics of Training Attention Models",
+      "year": "2021",
+      "venue": "ICLR",
+      "index": 1844,
+      "similarity_score": 0.4512151156994727,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Neural encoding with visual attention",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10054,
+      "similarity_score": 0.4489472780747985,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning Dictionary for Visual Attention",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 18379,
+      "similarity_score": 0.44822934865726394,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning Dictionary for Visual Attention",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 18379,
+      "similarity_score": 0.44822934865726394,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Improving Transformers with Probabilistic Attention Keys",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 6209,
+      "similarity_score": 0.4481808376346279,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Predicting When Saliency Maps are Accurate and Eye Fixations Consistent",
+      "year": "2016",
+      "venue": "CVPR",
+      "index": 2447,
+      "similarity_score": 0.4478084280811857,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Attention as Implicit Structural Inference",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 16838,
+      "similarity_score": 0.44652530942512003,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 9853,
+      "similarity_score": 0.4457884139257555,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learned Region Sparsity and Diversity Also Predict Visual Attention",
+      "year": "2016",
+      "venue": "IJCAI",
+      "index": 6296,
+      "similarity_score": 0.4450194025278258,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learned Region Sparsity and Diversity Also Predict Visual Attention",
+      "year": "2016",
+      "venue": "NIPS",
+      "index": 6296,
+      "similarity_score": 0.4450194025278258,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Attention is not all you need: pure attention loses rank doubly exponentially with depth",
+      "year": "2021",
+      "venue": "ICML",
+      "index": 4455,
+      "similarity_score": 0.44255849019012317,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference",
+      "year": "2020",
+      "venue": "EMNLP",
+      "index": 3716,
+      "similarity_score": 0.44199342739213765,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Attentional Push: A Deep Convolutional Network for Augmenting Image Salience with Shared Attention Modeling in Social Scenes",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 2729,
+      "similarity_score": 0.44166143666641733,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Deep Reinforced Attention Learning for Quality-Aware Visual Recognition",
+      "year": "2020",
+      "venue": "ECCV",
+      "index": 1492,
+      "similarity_score": 0.4410567558308315,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Scaling Local Self-Attention for Parameter Efficient Visual Backbones",
+      "year": "2021",
+      "venue": "CVPR",
+      "index": 4934,
+      "similarity_score": 0.4410270001557828,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 2252,
+      "similarity_score": 0.44083350397426935,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Supervising Neural Attention Models for Video Captioning by Human Gaze Data",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 3024,
+      "similarity_score": 0.44015481327269834,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Context-Aware Self-Attention Networks",
+      "year": "2019",
+      "venue": "AAAI",
+      "index": 10010,
+      "similarity_score": 0.43933939819455814,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Mask Attention Networks: Rethinking and Strengthen Transformer",
+      "year": "2021",
+      "venue": "NAACL",
+      "index": 1631,
+      "similarity_score": 0.4368054875152346,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Stand-Alone Self-Attention in Vision Models",
+      "year": "2019",
+      "venue": "NIPS",
+      "index": 8889,
+      "similarity_score": 0.43524563265184646,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Focal Attention for Long-Range Interactions in Vision Transformers",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 13018,
+      "similarity_score": 0.4331012431464607,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning Generative Models with Visual Attention",
+      "year": "2014",
+      "venue": "IJCAI",
+      "index": 5422,
+      "similarity_score": 0.4324683660692211,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Pure Transformers are Powerful Graph Learners",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 13979,
+      "similarity_score": 0.4285538510732263,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Multi-Head Attention with Disagreement Regularization",
+      "year": "2018",
+      "venue": "EMNLP",
+      "index": 2853,
+      "similarity_score": 0.42824588405115716,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Residual Attention Network for Image Classification",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 2804,
+      "similarity_score": 0.4275197781450115,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Energy Transformer",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 16964,
+      "similarity_score": 0.42669488002595635,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "BA-Net: Bridge Attention for Deep Convolutional Neural Networks",
+      "year": "2022",
+      "venue": "ECCV",
+      "index": 2996,
+      "similarity_score": 0.426356946594596,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Improving Transformer with an Admixture of Attention Heads",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 15052,
+      "similarity_score": 0.42621971645584444,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "SEQUENTIAL ATTENTION FOR FEATURE SELECTION",
+      "year": "2023",
+      "venue": "ICLR",
+      "index": 3428,
+      "similarity_score": 0.4251582480760976,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "From Self-Attention to Markov Models: Unveiling the Dynamics of Generative Transformers",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 10777,
+      "similarity_score": 0.42305512033540404,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Recurrent Mixture Density Network for Spatiotemporal Visual Attention",
+      "year": "2017",
+      "venue": "ICLR",
+      "index": 264,
+      "similarity_score": 0.41932183678800605,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "On the Convergence of Encoder-only Shallow Transformers",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 18160,
+      "similarity_score": 0.4174469763788474,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning from Observer Gaze: Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition",
+      "year": "2024",
+      "venue": "CVPR",
+      "index": 11130,
+      "similarity_score": 0.41560225096637404,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Transformer in Transformer",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 11819,
+      "similarity_score": 0.41549852757218875,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Co-Scale Conv-Attentional Image Transformers",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 2466,
+      "similarity_score": 0.411646052737202,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention",
+      "year": "2022",
+      "venue": "AAAI",
+      "index": 15656,
+      "similarity_score": 0.4089524055020223,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "On the Integration of Self-Attention and Convolution",
+      "year": "2022",
+      "venue": "CVPR",
+      "index": 5297,
+      "similarity_score": 0.4076696240207447,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "KVT: k-NN Attention for Boosting Vision Transformers",
+      "year": "2022",
+      "venue": "ECCV",
+      "index": 3124,
+      "similarity_score": 0.4073638064879497,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "A Theoretical Understanding of Shallow Vision Transformers: Learning, Generalization, and Sample Complexity",
+      "year": "2023",
+      "venue": "ICLR",
+      "index": 3293,
+      "similarity_score": 0.4067630453092753,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 19131,
+      "similarity_score": 0.40675377300260296,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Can Active Memory Replace Attention?",
+      "year": "2016",
+      "venue": "NIPS",
+      "index": 6502,
+      "similarity_score": 0.4061363216719184,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Bottleneck Transformers for Visual Recognition",
+      "year": "2021",
+      "venue": "CVPR",
+      "index": 4769,
+      "similarity_score": 0.4057478120223449,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "An Integrated Model for Effective Saliency Prediction",
+      "year": "2017",
+      "venue": "AAAI",
+      "index": 8405,
+      "similarity_score": 0.4056067043735305,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Doubly-Attentive Decoder for Multi-modal Neural Machine Translation",
+      "year": "2017",
+      "venue": "ACL",
+      "index": 3321,
+      "similarity_score": 0.4033538710269262,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Multi-Scale Self-Attention for Text Classification",
+      "year": "2020",
+      "venue": "AAAI",
+      "index": 11028,
+      "similarity_score": 0.403026516454542,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Transformer Dissection: An Unified Understanding for Transformer\u2019s Attention via the Lens of Kernel",
+      "year": "2019",
+      "venue": "EMNLP",
+      "index": 3542,
+      "similarity_score": 0.4029903966053682,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Pay Attention to MLPs",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 13583,
+      "similarity_score": 0.40285008974667547,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "ViViT: A Video Vision Transformer",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 3177,
+      "similarity_score": 0.400293082594368,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Shunted Self-Attention via Multi-Scale Token Aggregation",
+      "year": "2022",
+      "venue": "CVPR",
+      "index": 5664,
+      "similarity_score": 0.42459887510266103,
+      "relevance": 3,
+      "importance": 2
+    },
+    {
+      "title": "Frustratingly Short Attention Spans in Neural Language Modeling",
+      "year": "2017",
+      "venue": "ICLR",
+      "index": 331,
+      "similarity_score": 0.41131368268984514,
+      "relevance": 3,
+      "importance": 2
+    }
+  ],
+  "multi_modal_attention": [
+    {
+      "title": "Doubly-Attentive Decoder for Multi-modal Neural Machine Translation",
+      "year": "2017",
+      "venue": "ACL",
+      "index": 3321,
+      "similarity_score": 0.4033538710269262,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Learning Visual Question Answering by Bootstrapping Hard Attention",
+      "year": "2018",
+      "venue": "ECCV",
+      "index": 431,
+      "similarity_score": 0.4624202346977305,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Text-Guided Attention Model for Image Captioning",
+      "year": "2017",
+      "venue": "AAAI",
+      "index": 7833,
+      "similarity_score": 0.45971423843593706,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "White-Box Transformers via Sparse Rate Reduction",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 19634,
+      "similarity_score": 0.45469964854695943,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Improving Transformers with Probabilistic Attention Keys",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 6209,
+      "similarity_score": 0.4481808376346279,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Attention as Implicit Structural Inference",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 16838,
+      "similarity_score": 0.44652530942512003,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Supervising Neural Attention Models for Video Captioning by Human Gaze Data",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 3024,
+      "similarity_score": 0.44015481327269834,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Boosted Attention: Leveraging Human Attention for Image Captioning",
+      "year": "2018",
+      "venue": "ECCV",
+      "index": 731,
+      "similarity_score": 0.43638991958891726,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "FourierFormer: Transformer Meets Generalized Fourier Integral Theorem",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 15163,
+      "similarity_score": 0.42922348020236734,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "FourierFormer: Transformer Meets Generalized Fourier Integral Theorem",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 15163,
+      "similarity_score": 0.42922348020236734,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Exploiting the Social-Like Prior in Transformer for Visual Reasoning",
+      "year": "2024",
+      "venue": "AAAI",
+      "index": 17994,
+      "similarity_score": 0.4290783264560959,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Long-Short Transformer: Ef\ufb01cient Transformers for Language and Vision",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 11973,
+      "similarity_score": 0.40703649406241404,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 2891,
+      "similarity_score": 0.4056208657146301,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Exploring Human-Like Attention Supervision in Visual Question Answering",
+      "year": "2018",
+      "venue": "AAAI",
+      "index": 9130,
+      "similarity_score": 0.4050316527724478,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Transformer Dissection: An Unified Understanding for Transformer\u2019s Attention via the Lens of Kernel",
+      "year": "2019",
+      "venue": "EMNLP",
+      "index": 3542,
+      "similarity_score": 0.4029903966053682,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Designing Robust Transformers using Robust Kernel Density Estimation",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 18216,
+      "similarity_score": 0.4010298095063385,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Designing Robust Transformers using Robust Kernel Density Estimation",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 18216,
+      "similarity_score": 0.4010298095063385,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention",
+      "year": "2015",
+      "venue": "ICML",
+      "index": 724,
+      "similarity_score": 0.4795108660625951,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Are Sixteen Heads Really Better than One?",
+      "year": "2019",
+      "venue": "NIPS",
+      "index": 8839,
+      "similarity_score": 0.4791165822947756,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning Attention Model from Human for Visuomotor Tasks",
+      "year": "2018",
+      "venue": "AAAI",
+      "index": 9237,
+      "similarity_score": 0.4579597494261256,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "An Object-Based Bayesian Framework for Top-Down Visual Attention",
+      "year": "2012",
+      "venue": "AAAI",
+      "index": 5181,
+      "similarity_score": 0.45654496401531186,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "White-Box Transformers via Sparse Rate Reduction",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 19634,
+      "similarity_score": 0.45469964854695943,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Adder Attention for Vision Transformer",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 12157,
+      "similarity_score": 0.4530699142087402,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Attention as Implicit Structural Inference",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 16838,
+      "similarity_score": 0.44652530942512003,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Human Attention in Visual Question Answering: Do Humans and Deep Networks Look at the Same Regions?",
+      "year": "2016",
+      "venue": "EMNLP",
+      "index": 2280,
+      "similarity_score": 0.4454756421629562,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Area Attention",
+      "year": "2019",
+      "venue": "ICML",
+      "index": 2559,
+      "similarity_score": 0.4453033036993952,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Jump Self-attention: Capturing High-order Statistics in Transformers",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 14247,
+      "similarity_score": 0.44235626961096797,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference",
+      "year": "2020",
+      "venue": "EMNLP",
+      "index": 3716,
+      "similarity_score": 0.44199342739213765,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "AttCAT: Explaining Transformers via Attentive Class Activation Tokens",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 16040,
+      "similarity_score": 0.4369992787246878,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Attention is not Explanation",
+      "year": "2019",
+      "venue": "EMNLP",
+      "index": 3271,
+      "similarity_score": 0.4359536154131325,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Stand-Alone Self-Attention in Vision Models",
+      "year": "2019",
+      "venue": "NIPS",
+      "index": 8889,
+      "similarity_score": 0.43524563265184646,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Fast Transformers with Clustered Attention",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10588,
+      "similarity_score": 0.4306149162591061,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Pure Transformers are Powerful Graph Learners",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 13979,
+      "similarity_score": 0.4285538510732263,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Energy Transformer",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 16964,
+      "similarity_score": 0.42669488002595635,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Energy Transformer",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 16964,
+      "similarity_score": 0.42669488002595635,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Improving Transformer with an Admixture of Attention Heads",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 15052,
+      "similarity_score": 0.42621971645584444,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Improving Transformer with an Admixture of Attention Heads",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 15052,
+      "similarity_score": 0.42621971645584444,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "AiR: Attention with Reasoning Capability",
+      "year": "2020",
+      "venue": "ECCV",
+      "index": 781,
+      "similarity_score": 0.4230952441351864,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Paying Attention to Descriptions Generated by Image Captioning Models",
+      "year": "2017",
+      "venue": "ICCV",
+      "index": 1160,
+      "similarity_score": 0.421122729478028,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "SPIKFORMER: WHEN SPIKING NEURAL NETWORK MEETS TRANSFORMER",
+      "year": "2023",
+      "venue": "ICLR",
+      "index": 2900,
+      "similarity_score": 0.4198283154665614,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "What Do Deep Saliency Models Learn about Visual Attention?",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 19639,
+      "similarity_score": 0.4191305322426151,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning from Observer Gaze: Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition",
+      "year": "2024",
+      "venue": "CVPR",
+      "index": 11130,
+      "similarity_score": 0.41560225096637404,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Attention Correctness in Neural Image Captioning",
+      "year": "2017",
+      "venue": "AAAI",
+      "index": 7813,
+      "similarity_score": 0.41279215198875874,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Co-Scale Conv-Attentional Image Transformers",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 2466,
+      "similarity_score": 0.411646052737202,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "EIT: Enhanced Interactive Transformer",
+      "year": "2024",
+      "venue": "ACL",
+      "index": 7965,
+      "similarity_score": 0.4084263706857578,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Long-Short Transformer: Efficient Transformers for Language and Vision",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 11973,
+      "similarity_score": 0.40703649406241404,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Neighborhood Attention Transformer",
+      "year": "2023",
+      "venue": "CVPR",
+      "index": 9398,
+      "similarity_score": 0.40030867692831706,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "ViViT: A Video Vision Transformer",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 3177,
+      "similarity_score": 0.400293082594368,
+      "relevance": 3,
+      "importance": 2
+    }
+  ],
+  "hierarchical_attention": [
+    {
+      "title": "JoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention",
+      "year": "2024",
+      "venue": "ICLR",
+      "index": 4870,
+      "similarity_score": 0.4171993636438459,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention",
+      "year": "2022",
+      "venue": "AAAI",
+      "index": 15656,
+      "similarity_score": 0.4089524055020223,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Learning Multiscale Transformer Models for Sequence Generation",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 6049,
+      "similarity_score": 0.4060124520841448,
+      "relevance": 5,
+      "importance": 5
+    },
+    {
+      "title": "Are Sixteen Heads Really Better than One?",
+      "year": "2019",
+      "venue": "NIPS",
+      "index": 8839,
+      "similarity_score": 0.4791165822947756,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Self-Attention Attribution: Interpreting Information Interactions Inside Transformer",
+      "year": "2021",
+      "venue": "AAAI",
+      "index": 13244,
+      "similarity_score": 0.46266131467121285,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "White-Box Transformers via Sparse Rate Reduction",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 19634,
+      "similarity_score": 0.45469964854695943,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "PIDformer: Transformer Meets Control Theory",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 8937,
+      "similarity_score": 0.45414562822328375,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Cascaded Head-colliding Attention",
+      "year": "2021",
+      "venue": "ACL",
+      "index": 5515,
+      "similarity_score": 0.4496580003812377,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Learning Dictionary for Visual Attention",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 18379,
+      "similarity_score": 0.44822934865726394,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Learning Dictionary for Visual Attention",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 18379,
+      "similarity_score": 0.44822934865726394,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Attention as Implicit Structural Inference",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 16838,
+      "similarity_score": 0.44652530942512003,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Area Attention",
+      "year": "2019",
+      "venue": "ICML",
+      "index": 2559,
+      "similarity_score": 0.4453033036993952,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Attention is not all you need: pure attention loses rank doubly exponentially with depth",
+      "year": "2021",
+      "venue": "ICML",
+      "index": 4455,
+      "similarity_score": 0.44255849019012317,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Jump Self-attention: Capturing High-order Statistics in Transformers",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 14247,
+      "similarity_score": 0.44235626961096797,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Jump Self-attention: Capturing High-order Statistics in Transformers",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 14247,
+      "similarity_score": 0.44235626961096797,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Focal Attention for Long-Range Interactions in Vision Transformers",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 13018,
+      "similarity_score": 0.4331012431464607,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Focal Attention for Long-Range Interactions in Vision Transformers",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 13018,
+      "similarity_score": 0.4331012431464607,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Learning Generative Models with Visual Attention",
+      "year": "2014",
+      "venue": "IJCAI",
+      "index": 5422,
+      "similarity_score": 0.4324683660692211,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Residual Attention Network for Image Classification",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 2804,
+      "similarity_score": 0.4275197781450115,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Improving Transformer with an Admixture of Attention Heads",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 15052,
+      "similarity_score": 0.42621971645584444,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Shunted Self-Attention via Multi-Scale Token Aggregation",
+      "year": "2022",
+      "venue": "CVPR",
+      "index": 5664,
+      "similarity_score": 0.42459887510266103,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Recurrent Mixture Density Network for Spatiotemporal Visual Attention",
+      "year": "2017",
+      "venue": "ICLR",
+      "index": 264,
+      "similarity_score": 0.41932183678800605,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Transformer in Transformer",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 11819,
+      "similarity_score": 0.41549852757218875,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Co-Scale Conv-Attentional Image Transformers",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 2466,
+      "similarity_score": 0.411646052737202,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer",
+      "year": "2022",
+      "venue": "ECCV",
+      "index": 3135,
+      "similarity_score": 0.4092346207996512,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Self-attention Networks Localize When QK-eigenspectrum Concentrates",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 8520,
+      "similarity_score": 0.409199133153205,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Multi Resolution Analysis (MRA) for Approximate Self-Attention",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 5442,
+      "similarity_score": 0.40795268225534387,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Multi-Scale Self-Attention for Text Classification",
+      "year": "2020",
+      "venue": "AAAI",
+      "index": 11028,
+      "similarity_score": 0.403026516454542,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "PatchFormer: An Efficient Point Transformer with Patch Attention",
+      "year": "2022",
+      "venue": "CVPR",
+      "index": 6716,
+      "similarity_score": 0.4022476848409092,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "Neighborhood Attention Transformer",
+      "year": "2023",
+      "venue": "CVPR",
+      "index": 9398,
+      "similarity_score": 0.40030867692831706,
+      "relevance": 4,
+      "importance": 4
+    },
+    {
+      "title": "AttCAT: Explaining Transformers via Attentive Class Activation Tokens",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 16040,
+      "similarity_score": 0.4369992787246878,
+      "relevance": 4,
+      "importance": 3
+    },
+    {
+      "title": "ViViT: A Video Vision Transformer",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 3177,
+      "similarity_score": 0.400293082594368,
+      "relevance": 4,
+      "importance": 3
+    },
+    {
+      "title": "Transformer in Transformer",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 11819,
+      "similarity_score": 0.41549852757218875,
+      "relevance": 3,
+      "importance": 4
+    },
+    {
+      "title": "A PRIMAL-DUAL FRAMEWORK FOR TRANSFORMERS AND NEURAL NETWORKS",
+      "year": "2023",
+      "venue": "ICLR",
+      "index": 3647,
+      "similarity_score": 0.5247013070918548,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Adaptive Attention Span in Transformers",
+      "year": "2019",
+      "venue": "ACL",
+      "index": 3933,
+      "similarity_score": 0.4953248272392161,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Is Attention Explanation? An Introduction to the Debate",
+      "year": "2022",
+      "venue": "ACL",
+      "index": 6024,
+      "similarity_score": 0.492614321264632,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Modeling Localness for Self-Attention Networks",
+      "year": "2018",
+      "venue": "EMNLP",
+      "index": 3028,
+      "similarity_score": 0.48809065786710926,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning from Unique Perspectives: User-aware Saliency Modeling",
+      "year": "2023",
+      "venue": "CVPR",
+      "index": 7485,
+      "similarity_score": 0.48731932839251135,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Not All Attention Is Needed: Gated Attention Network for Sequence Data",
+      "year": "2020",
+      "venue": "AAAI",
+      "index": 12117,
+      "similarity_score": 0.4843918504417932,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention",
+      "year": "2020",
+      "venue": "ICML",
+      "index": 3518,
+      "similarity_score": 0.4815298686936609,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Are Sixteen Heads Really Better than One?",
+      "year": "2019",
+      "venue": "IJCAI",
+      "index": 8839,
+      "similarity_score": 0.4791165822947756,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "The emergence of clusters in self-attention dynamics",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 18404,
+      "similarity_score": 0.4740009664099174,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "SparseBERT: Rethinking the Importance Analysis in Self-attention",
+      "year": "2021",
+      "venue": "ICML",
+      "index": 5135,
+      "similarity_score": 0.4712094541924954,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Representational Strengths and Limitations of Transformers",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 17407,
+      "similarity_score": 0.4682314000235641,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Representational Strengths and Limitations of Transformers",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 17407,
+      "similarity_score": 0.4682314000235641,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding",
+      "year": "2018",
+      "venue": "AAAI",
+      "index": 9529,
+      "similarity_score": 0.4626486706166596,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Point Transformer",
+      "year": "2021",
+      "venue": "ICCV",
+      "index": 3120,
+      "similarity_score": 0.4579268327374386,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Big Bird: Transformers for Longer Sequences",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10180,
+      "similarity_score": 0.4570990264858361,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Focus of Attention Improves Information Transfer in Visual Features",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10636,
+      "similarity_score": 0.45649480926558395,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Modify Self-Attention via Skeleton Decomposition for Effective Point Cloud Transformer",
+      "year": "2022",
+      "venue": "AAAI",
+      "index": 16011,
+      "similarity_score": 0.45603810601511985,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "White-Box Transformers via Sparse Rate Reduction",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 19634,
+      "similarity_score": 0.45469964854695943,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Adder Attention for Vision Transformer",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 12157,
+      "similarity_score": 0.4530699142087402,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Adder Attention for Vision Transformer",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 12157,
+      "similarity_score": 0.4530699142087402,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Transformers from an Optimization Perspective",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 15775,
+      "similarity_score": 0.4510346007473006,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Neural encoding with visual attention",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10054,
+      "similarity_score": 0.4489472780747985,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Improving Transformers with Probabilistic Attention Keys",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 6209,
+      "similarity_score": 0.4481808376346279,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Attention Meets Post-hoc Interpretability: A Mathematical Perspective",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 8711,
+      "similarity_score": 0.44805840103970385,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Attention as Implicit Structural Inference",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 16838,
+      "similarity_score": 0.44652530942512003,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 9853,
+      "similarity_score": 0.4457884139257555,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Highway Transformer: Self-Gating Enhanced Self-Attentive Networks",
+      "year": "2020",
+      "venue": "ACL",
+      "index": 4922,
+      "similarity_score": 0.44564317588578706,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference",
+      "year": "2020",
+      "venue": "EMNLP",
+      "index": 3716,
+      "similarity_score": 0.44199342739213765,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Deep Reinforced Attention Learning for Quality-Aware Visual Recognition",
+      "year": "2020",
+      "venue": "ECCV",
+      "index": 1492,
+      "similarity_score": 0.4410567558308315,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Scaling Local Self-Attention for Parameter Efficient Visual Backbones",
+      "year": "2021",
+      "venue": "CVPR",
+      "index": 4934,
+      "similarity_score": 0.4410270001557828,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "SAC: Accelerating and Structuring Self-Attention via Sparse Adaptive Connection",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10153,
+      "similarity_score": 0.44001733025285583,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "SAC: Accelerating and Structuring Self-Attention via Sparse Adaptive Connection",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10153,
+      "similarity_score": 0.44001733025285583,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Context-Aware Self-Attention Networks",
+      "year": "2019",
+      "venue": "AAAI",
+      "index": 10010,
+      "similarity_score": 0.43933939819455814,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "AttCAT: Explaining Transformers via Attentive Class Activation Tokens",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 16040,
+      "similarity_score": 0.4369992787246878,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "What Improves the Generalization of Graph Transformers? A Theoretical Dive into the Self-attention and Positional Encoding",
+      "year": "2024",
+      "venue": "ICML",
+      "index": 8517,
+      "similarity_score": 0.43674538610925817,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Stand-Alone Self-Attention in Vision Models",
+      "year": "2019",
+      "venue": "IJCAI",
+      "index": 8889,
+      "similarity_score": 0.43524563265184646,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Stand-Alone Self-Attention in Vision Models",
+      "year": "2019",
+      "venue": "NIPS",
+      "index": 8889,
+      "similarity_score": 0.43524563265184646,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Learning Generative Models with Visual Attention",
+      "year": "2014",
+      "venue": "NIPS",
+      "index": 5422,
+      "similarity_score": 0.4324683660692211,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Fast Transformers with Clustered Attention",
+      "year": "2020",
+      "venue": "IJCAI",
+      "index": 10588,
+      "similarity_score": 0.4306149162591061,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Fast Transformers with Clustered Attention",
+      "year": "2020",
+      "venue": "NIPS",
+      "index": 10588,
+      "similarity_score": 0.4306149162591061,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "FourierFormer: Transformer Meets Generalized Fourier Integral Theorem",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 15163,
+      "similarity_score": 0.42922348020236734,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "FourierFormer: Transformer Meets Generalized Fourier Integral Theorem",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 15163,
+      "similarity_score": 0.42922348020236734,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Exploiting the Social-Like Prior in Transformer for Visual Reasoning",
+      "year": "2024",
+      "venue": "AAAI",
+      "index": 17994,
+      "similarity_score": 0.4290783264560959,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Pure Transformers are Powerful Graph Learners",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 13979,
+      "similarity_score": 0.4285538510732263,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Multi-Head Attention with Disagreement Regularization",
+      "year": "2018",
+      "venue": "EMNLP",
+      "index": 2853,
+      "similarity_score": 0.42824588405115716,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "FMMformer: Efficient and Flexible Transformer via Decomposed Near-field and Far-field Attention",
+      "year": "2021",
+      "venue": "IJCAI",
+      "index": 12971,
+      "similarity_score": 0.427179105168498,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Energy Transformer",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 16964,
+      "similarity_score": 0.42669488002595635,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Improving Transformer with an Admixture of Attention Heads",
+      "year": "2022",
+      "venue": "NIPS",
+      "index": 15052,
+      "similarity_score": 0.42621971645584444,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "AiR: Attention with Reasoning Capability",
+      "year": "2020",
+      "venue": "ECCV",
+      "index": 781,
+      "similarity_score": 0.4230952441351864,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "What Do Deep Saliency Models Learn about Visual Attention?",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 19639,
+      "similarity_score": 0.4191305322426151,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "On the Convergence of Encoder-only Shallow Transformers",
+      "year": "2023",
+      "venue": "IJCAI",
+      "index": 18160,
+      "similarity_score": 0.4174469763788474,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "ClusterFormer: Neural Clustering Attention for Efficient and Effective Transformer",
+      "year": "2022",
+      "venue": "ACL",
+      "index": 5915,
+      "similarity_score": 0.4153644584470756,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Attend and Rectify: a Gated Attention Mechanism for Fine-Grained Recovery",
+      "year": "2018",
+      "venue": "ECCV",
+      "index": 20,
+      "similarity_score": 0.408471762841604,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "EIT: Enhanced Interactive Transformer",
+      "year": "2024",
+      "venue": "ACL",
+      "index": 7965,
+      "similarity_score": 0.4084263706857578,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Mixture of Attention Heads: Selecting Attention Heads Per Token",
+      "year": "2022",
+      "venue": "EMNLP",
+      "index": 5432,
+      "similarity_score": 0.4079235166361743,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "On the Relationship Between Self-Attention and Convolutional Layers",
+      "year": "2020",
+      "venue": "ICLR",
+      "index": 1336,
+      "similarity_score": 0.40763371490581346,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "KVT: k-NN Attention for Boosting Vision Transformers",
+      "year": "2022",
+      "venue": "ECCV",
+      "index": 3124,
+      "similarity_score": 0.4073638064879497,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Long-Short Transformer: Ef\ufb01cient Transformers for Language and Vision",
+      "year": "2021",
+      "venue": "NIPS",
+      "index": 11973,
+      "similarity_score": 0.40703649406241404,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "A Theoretical Understanding of Shallow Vision Transformers: Learning, Generalization, and Sample Complexity",
+      "year": "2023",
+      "venue": "ICLR",
+      "index": 3293,
+      "similarity_score": 0.4067630453092753,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Blockwise Parallel Transformers for Large Context Models",
+      "year": "2023",
+      "venue": "NIPS",
+      "index": 19603,
+      "similarity_score": 0.40619574872831876,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning",
+      "year": "2017",
+      "venue": "CVPR",
+      "index": 2891,
+      "similarity_score": 0.4056208657146301,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "An Integrated Model for Effective Saliency Prediction",
+      "year": "2017",
+      "venue": "AAAI",
+      "index": 8405,
+      "similarity_score": 0.4056067043735305,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Exploring Human-Like Attention Supervision in Visual Question Answering",
+      "year": "2018",
+      "venue": "AAAI",
+      "index": 9130,
+      "similarity_score": 0.4050316527724478,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Video Saliency Detection via Dynamic Consistent Spatio-Temporal Attention Modelling",
+      "year": "2013",
+      "venue": "AAAI",
+      "index": 5801,
+      "similarity_score": 0.4045588915727011,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Transformer Dissection: An Unified Understanding for Transformer\u2019s Attention via the Lens of Kernel",
+      "year": "2019",
+      "venue": "EMNLP",
+      "index": 3542,
+      "similarity_score": 0.4029903966053682,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Lite Vision Transformer with Enhanced Self-Attention",
+      "year": "2022",
+      "venue": "CVPR",
+      "index": 5756,
+      "similarity_score": 0.40267265151444454,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Unraveling Attention via Convex Duality: Analysis and Interpretations of Vision Transformers",
+      "year": "2022",
+      "venue": "ICML",
+      "index": 6328,
+      "similarity_score": 0.402645298209761,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Sparse MLP for Image Recognition: Is Self-Attention Really Necessary?",
+      "year": "2022",
+      "venue": "AAAI",
+      "index": 15220,
+      "similarity_score": 0.4006086360491691,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Improving Transformer Models by Reordering their Sublayers",
+      "year": "2020",
+      "venue": "ACL",
+      "index": 4538,
+      "similarity_score": 0.400546595888161,
+      "relevance": 3,
+      "importance": 3
+    },
+    {
+      "title": "Transformers from an Optimization Perspective",
+      "year": "2022",
+      "venue": "IJCAI",
+      "index": 15775,
+      "similarity_score": 0.4510346007473006,
+      "relevance": 3,
+      "importance": 2
+    },
+    {
+      "title": "Saccader: Improving Accuracy of Hard Attention Models for Vision",
+      "year": "2019",
+      "venue": "NIPS",
+      "index": 9449,
+      "similarity_score": 0.41885969659408406,
+      "relevance": 3,
+      "importance": 2
+    },
+    {
+      "title": "More Identifiable yet Equally Performant Transformers for Text Classification",
+      "year": "2021",
+      "venue": "ACL",
+      "index": 5691,
+      "similarity_score": 0.41468656853562647,
+      "relevance": 3,
+      "importance": 2
+    }
+  ]
+}

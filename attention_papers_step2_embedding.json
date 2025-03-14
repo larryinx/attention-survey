@@ -1,0 +1,1106 @@
+[
+  {
+    "year": "2020",
+    "venue": "AAAI",
+    "index": 12117,
+    "similarity_score": 0.4843918504417932
+  },
+  {
+    "year": "2021",
+    "venue": "AAAI",
+    "index": 13244,
+    "similarity_score": 0.46266131467121285
+  },
+  {
+    "year": "2018",
+    "venue": "AAAI",
+    "index": 9529,
+    "similarity_score": 0.4626486706166596
+  },
+  {
+    "year": "2017",
+    "venue": "AAAI",
+    "index": 7833,
+    "similarity_score": 0.45971423843593706
+  },
+  {
+    "year": "2018",
+    "venue": "AAAI",
+    "index": 9237,
+    "similarity_score": 0.4579597494261256
+  },
+  {
+    "year": "2012",
+    "venue": "AAAI",
+    "index": 5181,
+    "similarity_score": 0.45654496401531186
+  },
+  {
+    "year": "2022",
+    "venue": "AAAI",
+    "index": 16011,
+    "similarity_score": 0.45603810601511985
+  },
+  {
+    "year": "2021",
+    "venue": "AAAI",
+    "index": 13444,
+    "similarity_score": 0.4544907266188909
+  },
+  {
+    "year": "2019",
+    "venue": "AAAI",
+    "index": 10010,
+    "similarity_score": 0.43933939819455814
+  },
+  {
+    "year": "2020",
+    "venue": "AAAI",
+    "index": 11707,
+    "similarity_score": 0.4376761992586212
+  },
+  {
+    "year": "2021",
+    "venue": "AAAI",
+    "index": 13429,
+    "similarity_score": 0.43679427645353075
+  },
+  {
+    "year": "2024",
+    "venue": "AAAI",
+    "index": 17994,
+    "similarity_score": 0.4290783264560959
+  },
+  {
+    "year": "2017",
+    "venue": "AAAI",
+    "index": 7813,
+    "similarity_score": 0.41279215198875874
+  },
+  {
+    "year": "2022",
+    "venue": "AAAI",
+    "index": 15656,
+    "similarity_score": 0.4089524055020223
+  },
+  {
+    "year": "2021",
+    "venue": "AAAI",
+    "index": 14368,
+    "similarity_score": 0.406367286401758
+  },
+  {
+    "year": "2017",
+    "venue": "AAAI",
+    "index": 8405,
+    "similarity_score": 0.4056067043735305
+  },
+  {
+    "year": "2018",
+    "venue": "AAAI",
+    "index": 9130,
+    "similarity_score": 0.4050316527724478
+  },
+  {
+    "year": "2013",
+    "venue": "AAAI",
+    "index": 5801,
+    "similarity_score": 0.4045588915727011
+  },
+  {
+    "year": "2020",
+    "venue": "AAAI",
+    "index": 11028,
+    "similarity_score": 0.403026516454542
+  },
+  {
+    "year": "2022",
+    "venue": "AAAI",
+    "index": 15220,
+    "similarity_score": 0.4006086360491691
+  },
+  {
+    "year": "2019",
+    "venue": "ACL",
+    "index": 3891,
+    "similarity_score": 0.595549611529637
+  },
+  {
+    "year": "2019",
+    "venue": "ACL",
+    "index": 3933,
+    "similarity_score": 0.4953248272392161
+  },
+  {
+    "year": "2022",
+    "venue": "ACL",
+    "index": 6024,
+    "similarity_score": 0.492614321264632
+  },
+  {
+    "year": "2020",
+    "venue": "ACL",
+    "index": 4703,
+    "similarity_score": 0.45754241133217066
+  },
+  {
+    "year": "2020",
+    "venue": "ACL",
+    "index": 4667,
+    "similarity_score": 0.4560067487598277
+  },
+  {
+    "year": "2020",
+    "venue": "ACL",
+    "index": 4718,
+    "similarity_score": 0.45079887342357916
+  },
+  {
+    "year": "2021",
+    "venue": "ACL",
+    "index": 5515,
+    "similarity_score": 0.4496580003812377
+  },
+  {
+    "year": "2020",
+    "venue": "ACL",
+    "index": 4922,
+    "similarity_score": 0.44564317588578706
+  },
+  {
+    "year": "2021",
+    "venue": "ACL",
+    "index": 5460,
+    "similarity_score": 0.4451241795932238
+  },
+  {
+    "year": "2019",
+    "venue": "ACL",
+    "index": 3900,
+    "similarity_score": 0.4285103133787146
+  },
+  {
+    "year": "2020",
+    "venue": "ACL",
+    "index": 4585,
+    "similarity_score": 0.4157051314235892
+  },
+  {
+    "year": "2022",
+    "venue": "ACL",
+    "index": 5915,
+    "similarity_score": 0.4153644584470756
+  },
+  {
+    "year": "2021",
+    "venue": "ACL",
+    "index": 5691,
+    "similarity_score": 0.41468656853562647
+  },
+  {
+    "year": "2021",
+    "venue": "ACL",
+    "index": 5386,
+    "similarity_score": 0.41172874485398037
+  },
+  {
+    "year": "2024",
+    "venue": "ACL",
+    "index": 7965,
+    "similarity_score": 0.4084263706857578
+  },
+  {
+    "year": "2017",
+    "venue": "ACL",
+    "index": 3321,
+    "similarity_score": 0.4033538710269262
+  },
+  {
+    "year": "2020",
+    "venue": "ACL",
+    "index": 4538,
+    "similarity_score": 0.400546595888161
+  },
+  {
+    "year": "2023",
+    "venue": "CVPR",
+    "index": 7485,
+    "similarity_score": 0.48731932839251135
+  },
+  {
+    "year": "2016",
+    "venue": "CVPR",
+    "index": 2447,
+    "similarity_score": 0.4478084280811857
+  },
+  {
+    "year": "2017",
+    "venue": "CVPR",
+    "index": 2729,
+    "similarity_score": 0.44166143666641733
+  },
+  {
+    "year": "2021",
+    "venue": "CVPR",
+    "index": 4934,
+    "similarity_score": 0.4410270001557828
+  },
+  {
+    "year": "2017",
+    "venue": "CVPR",
+    "index": 3024,
+    "similarity_score": 0.44015481327269834
+  },
+  {
+    "year": "2017",
+    "venue": "CVPR",
+    "index": 2804,
+    "similarity_score": 0.4275197781450115
+  },
+  {
+    "year": "2022",
+    "venue": "CVPR",
+    "index": 5664,
+    "similarity_score": 0.42459887510266103
+  },
+  {
+    "year": "2023",
+    "venue": "CVPR",
+    "index": 8340,
+    "similarity_score": 0.41624064928076865
+  },
+  {
+    "year": "2024",
+    "venue": "CVPR",
+    "index": 11130,
+    "similarity_score": 0.41560225096637404
+  },
+  {
+    "year": "2022",
+    "venue": "CVPR",
+    "index": 5297,
+    "similarity_score": 0.4076696240207447
+  },
+  {
+    "year": "2021",
+    "venue": "CVPR",
+    "index": 4769,
+    "similarity_score": 0.4057478120223449
+  },
+  {
+    "year": "2017",
+    "venue": "CVPR",
+    "index": 2891,
+    "similarity_score": 0.4056208657146301
+  },
+  {
+    "year": "2022",
+    "venue": "CVPR",
+    "index": 5756,
+    "similarity_score": 0.40267265151444454
+  },
+  {
+    "year": "2022",
+    "venue": "CVPR",
+    "index": 6716,
+    "similarity_score": 0.4022476848409092
+  },
+  {
+    "year": "2023",
+    "venue": "CVPR",
+    "index": 9398,
+    "similarity_score": 0.40030867692831706
+  },
+  {
+    "year": "2018",
+    "venue": "ECCV",
+    "index": 431,
+    "similarity_score": 0.4624202346977305
+  },
+  {
+    "year": "2018",
+    "venue": "ECCV",
+    "index": 275,
+    "similarity_score": 0.45213151462664514
+  },
+  {
+    "year": "2020",
+    "venue": "ECCV",
+    "index": 1492,
+    "similarity_score": 0.4410567558308315
+  },
+  {
+    "year": "2018",
+    "venue": "ECCV",
+    "index": 731,
+    "similarity_score": 0.43638991958891726
+  },
+  {
+    "year": "2022",
+    "venue": "ECCV",
+    "index": 2996,
+    "similarity_score": 0.426356946594596
+  },
+  {
+    "year": "2020",
+    "venue": "ECCV",
+    "index": 781,
+    "similarity_score": 0.4230952441351864
+  },
+  {
+    "year": "2022",
+    "venue": "ECCV",
+    "index": 3135,
+    "similarity_score": 0.4092346207996512
+  },
+  {
+    "year": "2018",
+    "venue": "ECCV",
+    "index": 20,
+    "similarity_score": 0.408471762841604
+  },
+  {
+    "year": "2022",
+    "venue": "ECCV",
+    "index": 3124,
+    "similarity_score": 0.4073638064879497
+  },
+  {
+    "year": "2018",
+    "venue": "EMNLP",
+    "index": 3028,
+    "similarity_score": 0.48809065786710926
+  },
+  {
+    "year": "2018",
+    "venue": "EMNLP",
+    "index": 3122,
+    "similarity_score": 0.4541929169873129
+  },
+  {
+    "year": "2016",
+    "venue": "EMNLP",
+    "index": 2280,
+    "similarity_score": 0.4454756421629562
+  },
+  {
+    "year": "2020",
+    "venue": "EMNLP",
+    "index": 3716,
+    "similarity_score": 0.44199342739213765
+  },
+  {
+    "year": "2019",
+    "venue": "EMNLP",
+    "index": 3271,
+    "similarity_score": 0.4359536154131325
+  },
+  {
+    "year": "2018",
+    "venue": "EMNLP",
+    "index": 2853,
+    "similarity_score": 0.42824588405115716
+  },
+  {
+    "year": "2022",
+    "venue": "EMNLP",
+    "index": 5432,
+    "similarity_score": 0.4079235166361743
+  },
+  {
+    "year": "2019",
+    "venue": "EMNLP",
+    "index": 3542,
+    "similarity_score": 0.4029903966053682
+  },
+  {
+    "year": "2021",
+    "venue": "ICCV",
+    "index": 3120,
+    "similarity_score": 0.4579268327374386
+  },
+  {
+    "year": "2021",
+    "venue": "ICCV",
+    "index": 2252,
+    "similarity_score": 0.44083350397426935
+  },
+  {
+    "year": "2017",
+    "venue": "ICCV",
+    "index": 1160,
+    "similarity_score": 0.421122729478028
+  },
+  {
+    "year": "2021",
+    "venue": "ICCV",
+    "index": 2466,
+    "similarity_score": 0.411646052737202
+  },
+  {
+    "year": "2013",
+    "venue": "ICCV",
+    "index": 11,
+    "similarity_score": 0.40899240286125915
+  },
+  {
+    "year": "2021",
+    "venue": "ICCV",
+    "index": 3177,
+    "similarity_score": 0.400293082594368
+  },
+  {
+    "year": "2023",
+    "venue": "ICLR",
+    "index": 3647,
+    "similarity_score": 0.5247013070918548
+  },
+  {
+    "year": "2019",
+    "venue": "ICLR",
+    "index": 591,
+    "similarity_score": 0.46328416079850687
+  },
+  {
+    "year": "2024",
+    "venue": "ICLR",
+    "index": 4085,
+    "similarity_score": 0.46171912187275177
+  },
+  {
+    "year": "2021",
+    "venue": "ICLR",
+    "index": 1844,
+    "similarity_score": 0.4512151156994727
+  },
+  {
+    "year": "2023",
+    "venue": "ICLR",
+    "index": 3428,
+    "similarity_score": 0.4251582480760976
+  },
+  {
+    "year": "2023",
+    "venue": "ICLR",
+    "index": 2900,
+    "similarity_score": 0.4198283154665614
+  },
+  {
+    "year": "2017",
+    "venue": "ICLR",
+    "index": 264,
+    "similarity_score": 0.41932183678800605
+  },
+  {
+    "year": "2024",
+    "venue": "ICLR",
+    "index": 4870,
+    "similarity_score": 0.4171993636438459
+  },
+  {
+    "year": "2017",
+    "venue": "ICLR",
+    "index": 331,
+    "similarity_score": 0.41131368268984514
+  },
+  {
+    "year": "2020",
+    "venue": "ICLR",
+    "index": 1336,
+    "similarity_score": 0.40763371490581346
+  },
+  {
+    "year": "2023",
+    "venue": "ICLR",
+    "index": 3293,
+    "similarity_score": 0.4067630453092753
+  },
+  {
+    "year": "2020",
+    "venue": "ICML",
+    "index": 3518,
+    "similarity_score": 0.4815298686936609
+  },
+  {
+    "year": "2015",
+    "venue": "ICML",
+    "index": 724,
+    "similarity_score": 0.4795108660625951
+  },
+  {
+    "year": "2021",
+    "venue": "ICML",
+    "index": 5135,
+    "similarity_score": 0.4712094541924954
+  },
+  {
+    "year": "2021",
+    "venue": "ICML",
+    "index": 5200,
+    "similarity_score": 0.4641578649681376
+  },
+  {
+    "year": "2022",
+    "venue": "ICML",
+    "index": 5682,
+    "similarity_score": 0.4555566204177314
+  },
+  {
+    "year": "2024",
+    "venue": "ICML",
+    "index": 8937,
+    "similarity_score": 0.45414562822328375
+  },
+  {
+    "year": "2022",
+    "venue": "ICML",
+    "index": 6209,
+    "similarity_score": 0.4481808376346279
+  },
+  {
+    "year": "2024",
+    "venue": "ICML",
+    "index": 8711,
+    "similarity_score": 0.44805840103970385
+  },
+  {
+    "year": "2019",
+    "venue": "ICML",
+    "index": 2559,
+    "similarity_score": 0.4453033036993952
+  },
+  {
+    "year": "2021",
+    "venue": "ICML",
+    "index": 4455,
+    "similarity_score": 0.44255849019012317
+  },
+  {
+    "year": "2024",
+    "venue": "ICML",
+    "index": 10933,
+    "similarity_score": 0.4401701547255563
+  },
+  {
+    "year": "2024",
+    "venue": "ICML",
+    "index": 8517,
+    "similarity_score": 0.43674538610925817
+  },
+  {
+    "year": "2021",
+    "venue": "ICML",
+    "index": 4233,
+    "similarity_score": 0.4347435793923847
+  },
+  {
+    "year": "2024",
+    "venue": "ICML",
+    "index": 10777,
+    "similarity_score": 0.42305512033540404
+  },
+  {
+    "year": "2023",
+    "venue": "ICML",
+    "index": 6936,
+    "similarity_score": 0.4203189890769252
+  },
+  {
+    "year": "2024",
+    "venue": "ICML",
+    "index": 8520,
+    "similarity_score": 0.409199133153205
+  },
+  {
+    "year": "2022",
+    "venue": "ICML",
+    "index": 5442,
+    "similarity_score": 0.40795268225534387
+  },
+  {
+    "year": "2022",
+    "venue": "ICML",
+    "index": 6049,
+    "similarity_score": 0.4060124520841448
+  },
+  {
+    "year": "2022",
+    "venue": "ICML",
+    "index": 6328,
+    "similarity_score": 0.402645298209761
+  },
+  {
+    "year": "2017",
+    "venue": "IJCAI",
+    "index": 7212,
+    "similarity_score": 0.5024444836239189
+  },
+  {
+    "year": "2019",
+    "venue": "IJCAI",
+    "index": 8839,
+    "similarity_score": 0.4791165822947756
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 18404,
+    "similarity_score": 0.4740009664099174
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 17407,
+    "similarity_score": 0.4682314000235641
+  },
+  {
+    "year": "2020",
+    "venue": "IJCAI",
+    "index": 10180,
+    "similarity_score": 0.4570990264858361
+  },
+  {
+    "year": "2020",
+    "venue": "IJCAI",
+    "index": 10636,
+    "similarity_score": 0.45649480926558395
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 19634,
+    "similarity_score": 0.45469964854695943
+  },
+  {
+    "year": "2021",
+    "venue": "IJCAI",
+    "index": 12157,
+    "similarity_score": 0.4530699142087402
+  },
+  {
+    "year": "2022",
+    "venue": "IJCAI",
+    "index": 15775,
+    "similarity_score": 0.4510346007473006
+  },
+  {
+    "year": "2020",
+    "venue": "IJCAI",
+    "index": 10054,
+    "similarity_score": 0.4489472780747985
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 18379,
+    "similarity_score": 0.44822934865726394
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 16838,
+    "similarity_score": 0.44652530942512003
+  },
+  {
+    "year": "2020",
+    "venue": "IJCAI",
+    "index": 9853,
+    "similarity_score": 0.4457884139257555
+  },
+  {
+    "year": "2016",
+    "venue": "IJCAI",
+    "index": 6296,
+    "similarity_score": 0.4450194025278258
+  },
+  {
+    "year": "2022",
+    "venue": "IJCAI",
+    "index": 14247,
+    "similarity_score": 0.44235626961096797
+  },
+  {
+    "year": "2020",
+    "venue": "IJCAI",
+    "index": 10153,
+    "similarity_score": 0.44001733025285583
+  },
+  {
+    "year": "2022",
+    "venue": "IJCAI",
+    "index": 16040,
+    "similarity_score": 0.4369992787246878
+  },
+  {
+    "year": "2020",
+    "venue": "IJCAI",
+    "index": 11221,
+    "similarity_score": 0.43535057830463864
+  },
+  {
+    "year": "2019",
+    "venue": "IJCAI",
+    "index": 8889,
+    "similarity_score": 0.43524563265184646
+  },
+  {
+    "year": "2021",
+    "venue": "IJCAI",
+    "index": 13018,
+    "similarity_score": 0.4331012431464607
+  },
+  {
+    "year": "2014",
+    "venue": "IJCAI",
+    "index": 5422,
+    "similarity_score": 0.4324683660692211
+  },
+  {
+    "year": "2020",
+    "venue": "IJCAI",
+    "index": 10588,
+    "similarity_score": 0.4306149162591061
+  },
+  {
+    "year": "2022",
+    "venue": "IJCAI",
+    "index": 15163,
+    "similarity_score": 0.42922348020236734
+  },
+  {
+    "year": "2022",
+    "venue": "IJCAI",
+    "index": 13979,
+    "similarity_score": 0.4285538510732263
+  },
+  {
+    "year": "2021",
+    "venue": "IJCAI",
+    "index": 12971,
+    "similarity_score": 0.427179105168498
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 16964,
+    "similarity_score": 0.42669488002595635
+  },
+  {
+    "year": "2022",
+    "venue": "IJCAI",
+    "index": 15052,
+    "similarity_score": 0.42621971645584444
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 19639,
+    "similarity_score": 0.4191305322426151
+  },
+  {
+    "year": "2019",
+    "venue": "IJCAI",
+    "index": 9449,
+    "similarity_score": 0.41885969659408406
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 18160,
+    "similarity_score": 0.4174469763788474
+  },
+  {
+    "year": "2021",
+    "venue": "IJCAI",
+    "index": 11819,
+    "similarity_score": 0.41549852757218875
+  },
+  {
+    "year": "2014",
+    "venue": "IJCAI",
+    "index": 5224,
+    "similarity_score": 0.4111936906121346
+  },
+  {
+    "year": "2021",
+    "venue": "IJCAI",
+    "index": 12772,
+    "similarity_score": 0.4080488613636457
+  },
+  {
+    "year": "2021",
+    "venue": "IJCAI",
+    "index": 11973,
+    "similarity_score": 0.40703649406241404
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 19131,
+    "similarity_score": 0.40675377300260296
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 19603,
+    "similarity_score": 0.40619574872831876
+  },
+  {
+    "year": "2016",
+    "venue": "IJCAI",
+    "index": 6502,
+    "similarity_score": 0.4061363216719184
+  },
+  {
+    "year": "2021",
+    "venue": "IJCAI",
+    "index": 13583,
+    "similarity_score": 0.40285008974667547
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 18216,
+    "similarity_score": 0.4010298095063385
+  },
+  {
+    "year": "2021",
+    "venue": "NAACL",
+    "index": 1631,
+    "similarity_score": 0.4368054875152346
+  },
+  {
+    "year": "2017",
+    "venue": "NIPS",
+    "index": 7212,
+    "similarity_score": 0.5024444836239189
+  },
+  {
+    "year": "2019",
+    "venue": "NIPS",
+    "index": 8839,
+    "similarity_score": 0.4791165822947756
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 18404,
+    "similarity_score": 0.4740009664099174
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 17407,
+    "similarity_score": 0.4682314000235641
+  },
+  {
+    "year": "2020",
+    "venue": "NIPS",
+    "index": 10180,
+    "similarity_score": 0.4570990264858361
+  },
+  {
+    "year": "2020",
+    "venue": "NIPS",
+    "index": 10636,
+    "similarity_score": 0.45649480926558395
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 19634,
+    "similarity_score": 0.45469964854695943
+  },
+  {
+    "year": "2021",
+    "venue": "NIPS",
+    "index": 12157,
+    "similarity_score": 0.4530699142087402
+  },
+  {
+    "year": "2022",
+    "venue": "NIPS",
+    "index": 15775,
+    "similarity_score": 0.4510346007473006
+  },
+  {
+    "year": "2020",
+    "venue": "NIPS",
+    "index": 10054,
+    "similarity_score": 0.4489472780747985
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 18379,
+    "similarity_score": 0.44822934865726394
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 16838,
+    "similarity_score": 0.44652530942512003
+  },
+  {
+    "year": "2020",
+    "venue": "NIPS",
+    "index": 9853,
+    "similarity_score": 0.4457884139257555
+  },
+  {
+    "year": "2016",
+    "venue": "NIPS",
+    "index": 6296,
+    "similarity_score": 0.4450194025278258
+  },
+  {
+    "year": "2022",
+    "venue": "NIPS",
+    "index": 14247,
+    "similarity_score": 0.44235626961096797
+  },
+  {
+    "year": "2020",
+    "venue": "NIPS",
+    "index": 10153,
+    "similarity_score": 0.44001733025285583
+  },
+  {
+    "year": "2022",
+    "venue": "NIPS",
+    "index": 16040,
+    "similarity_score": 0.4369992787246878
+  },
+  {
+    "year": "2020",
+    "venue": "NIPS",
+    "index": 11221,
+    "similarity_score": 0.43535057830463864
+  },
+  {
+    "year": "2019",
+    "venue": "NIPS",
+    "index": 8889,
+    "similarity_score": 0.43524563265184646
+  },
+  {
+    "year": "2021",
+    "venue": "NIPS",
+    "index": 13018,
+    "similarity_score": 0.4331012431464607
+  },
+  {
+    "year": "2014",
+    "venue": "NIPS",
+    "index": 5422,
+    "similarity_score": 0.4324683660692211
+  },
+  {
+    "year": "2020",
+    "venue": "NIPS",
+    "index": 10588,
+    "similarity_score": 0.4306149162591061
+  },
+  {
+    "year": "2022",
+    "venue": "NIPS",
+    "index": 15163,
+    "similarity_score": 0.42922348020236734
+  },
+  {
+    "year": "2022",
+    "venue": "NIPS",
+    "index": 13979,
+    "similarity_score": 0.4285538510732263
+  },
+  {
+    "year": "2021",
+    "venue": "NIPS",
+    "index": 12971,
+    "similarity_score": 0.427179105168498
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 16964,
+    "similarity_score": 0.42669488002595635
+  },
+  {
+    "year": "2022",
+    "venue": "NIPS",
+    "index": 15052,
+    "similarity_score": 0.42621971645584444
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 19639,
+    "similarity_score": 0.4191305322426151
+  },
+  {
+    "year": "2019",
+    "venue": "NIPS",
+    "index": 9449,
+    "similarity_score": 0.41885969659408406
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 18160,
+    "similarity_score": 0.4174469763788474
+  },
+  {
+    "year": "2021",
+    "venue": "NIPS",
+    "index": 11819,
+    "similarity_score": 0.41549852757218875
+  },
+  {
+    "year": "2014",
+    "venue": "NIPS",
+    "index": 5224,
+    "similarity_score": 0.4111936906121346
+  },
+  {
+    "year": "2021",
+    "venue": "NIPS",
+    "index": 12772,
+    "similarity_score": 0.4080488613636457
+  },
+  {
+    "year": "2021",
+    "venue": "NIPS",
+    "index": 11973,
+    "similarity_score": 0.40703649406241404
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 19131,
+    "similarity_score": 0.40675377300260296
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 19603,
+    "similarity_score": 0.40619574872831876
+  },
+  {
+    "year": "2016",
+    "venue": "NIPS",
+    "index": 6502,
+    "similarity_score": 0.4061363216719184
+  },
+  {
+    "year": "2021",
+    "venue": "NIPS",
+    "index": 13583,
+    "similarity_score": 0.40285008974667547
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 18216,
+    "similarity_score": 0.4010298095063385
+  }
+]

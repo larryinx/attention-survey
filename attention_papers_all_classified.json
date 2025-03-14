@@ -1,0 +1,6810 @@
+[
+  {
+    "year": "2019",
+    "venue": "ACL",
+    "index": 3891,
+    "similarity_score": 0.595549611529637,
+    "title": "Is Attention Interpretable?",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 1,
+        "important": 1
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "ICLR",
+    "index": 3647,
+    "similarity_score": 0.5247013070918548,
+    "title": "A PRIMAL-DUAL FRAMEWORK FOR TRANSFORMERS AND NEURAL NETWORKS",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2017",
+    "venue": "IJCAI",
+    "index": 7212,
+    "similarity_score": 0.5024444836239189,
+    "title": "Variational Laws of Visual Attention for Dynamic Scenes",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 2,
+        "important": 2
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 1,
+        "important": 1
+      }
+    }
+  },
+  {
+    "year": "2017",
+    "venue": "NIPS",
+    "index": 7212,
+    "similarity_score": 0.5024444836239189,
+    "title": "Variational Laws of Visual Attention for Dynamic Scenes",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 1,
+        "important": 1
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 1,
+        "important": 1
+      }
+    }
+  },
+  {
+    "year": "2019",
+    "venue": "ACL",
+    "index": 3933,
+    "similarity_score": 0.4953248272392161,
+    "title": "Adaptive Attention Span in Transformers",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "ACL",
+    "index": 6024,
+    "similarity_score": 0.492614321264632,
+    "title": "Is Attention Explanation? An Introduction to the Debate",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2018",
+    "venue": "EMNLP",
+    "index": 3028,
+    "similarity_score": 0.48809065786710926,
+    "title": "Modeling Localness for Self-Attention Networks",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "CVPR",
+    "index": 7485,
+    "similarity_score": 0.48731932839251135,
+    "title": "Learning from Unique Perspectives: User-aware Saliency Modeling",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 2,
+        "important": 2
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "AAAI",
+    "index": 12117,
+    "similarity_score": 0.4843918504417932,
+    "title": "Not All Attention Is Needed: Gated Attention Network for Sequence Data",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "ICML",
+    "index": 3518,
+    "similarity_score": 0.4815298686936609,
+    "title": "Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2015",
+    "venue": "ICML",
+    "index": 724,
+    "similarity_score": 0.4795108660625951,
+    "title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2019",
+    "venue": "IJCAI",
+    "index": 8839,
+    "similarity_score": 0.4791165822947756,
+    "title": "Are Sixteen Heads Really Better than One?",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2019",
+    "venue": "NIPS",
+    "index": 8839,
+    "similarity_score": 0.4791165822947756,
+    "title": "Are Sixteen Heads Really Better than One?",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 18404,
+    "similarity_score": 0.4740009664099174,
+    "title": "The emergence of clusters in self-attention dynamics",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 18404,
+    "similarity_score": 0.4740009664099174,
+    "title": "The emergence of clusters in self-attention dynamics",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "ICML",
+    "index": 5135,
+    "similarity_score": 0.4712094541924954,
+    "title": "SparseBERT: Rethinking the Importance Analysis in Self-attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 17407,
+    "similarity_score": 0.4682314000235641,
+    "title": "Representational Strengths and Limitations of Transformers",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 17407,
+    "similarity_score": 0.4682314000235641,
+    "title": "Representational Strengths and Limitations of Transformers",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "ICML",
+    "index": 5200,
+    "similarity_score": 0.4641578649681376,
+    "title": "Synthesizer: Rethinking Self-Attention for Transformer Models",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2019",
+    "venue": "ICLR",
+    "index": 591,
+    "similarity_score": 0.46328416079850687,
+    "title": "LEARNING WHAT AND WHERE TO ATTEND",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "AAAI",
+    "index": 13244,
+    "similarity_score": 0.46266131467121285,
+    "title": "Self-Attention Attribution: Interpreting Information Interactions Inside Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2018",
+    "venue": "AAAI",
+    "index": 9529,
+    "similarity_score": 0.4626486706166596,
+    "title": "DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2018",
+    "venue": "ECCV",
+    "index": 431,
+    "similarity_score": 0.4624202346977305,
+    "title": "Learning Visual Question Answering by Bootstrapping Hard Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2024",
+    "venue": "ICLR",
+    "index": 4085,
+    "similarity_score": 0.46171912187275177,
+    "title": "Linear Log-Normal Attention with Unbiased Concentration",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2017",
+    "venue": "AAAI",
+    "index": 7833,
+    "similarity_score": 0.45971423843593706,
+    "title": "Text-Guided Attention Model for Image Captioning",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2018",
+    "venue": "AAAI",
+    "index": 9237,
+    "similarity_score": 0.4579597494261256,
+    "title": "Learning Attention Model from Human for Visuomotor Tasks",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "ICCV",
+    "index": 3120,
+    "similarity_score": 0.4579268327374386,
+    "title": "Point Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "ACL",
+    "index": 4703,
+    "similarity_score": 0.45754241133217066,
+    "title": "Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "IJCAI",
+    "index": 10180,
+    "similarity_score": 0.4570990264858361,
+    "title": "Big Bird: Transformers for Longer Sequences",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "NIPS",
+    "index": 10180,
+    "similarity_score": 0.4570990264858361,
+    "title": "Big Bird: Transformers for Longer Sequences",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2012",
+    "venue": "AAAI",
+    "index": 5181,
+    "similarity_score": 0.45654496401531186,
+    "title": "An Object-Based Bayesian Framework for Top-Down Visual Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 2,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 1,
+        "important": 1
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "IJCAI",
+    "index": 10636,
+    "similarity_score": 0.45649480926558395,
+    "title": "Focus of Attention Improves Information Transfer in Visual Features",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "NIPS",
+    "index": 10636,
+    "similarity_score": 0.45649480926558395,
+    "title": "Focus of Attention Improves Information Transfer in Visual Features",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "AAAI",
+    "index": 16011,
+    "similarity_score": 0.45603810601511985,
+    "title": "Modify Self-Attention via Skeleton Decomposition for Effective Point Cloud Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "ACL",
+    "index": 4667,
+    "similarity_score": 0.4560067487598277,
+    "title": "Towards Transparent and Explainable Attention Models",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "ICML",
+    "index": 5682,
+    "similarity_score": 0.4555566204177314,
+    "title": "Inductive Biases and Variable Creation in Self-Attention Mechanisms",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 19634,
+    "similarity_score": 0.45469964854695943,
+    "title": "White-Box Transformers via Sparse Rate Reduction",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 19634,
+    "similarity_score": 0.45469964854695943,
+    "title": "White-Box Transformers via Sparse Rate Reduction",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "AAAI",
+    "index": 13444,
+    "similarity_score": 0.4544907266188909,
+    "title": "Nystr\u00a8omformer: A Nystr\u00a8om-based Algorithm for Approximating Self-Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2018",
+    "venue": "EMNLP",
+    "index": 3122,
+    "similarity_score": 0.4541929169873129,
+    "title": "Surprisingly Easy Hard-Attention for Sequence to Sequence Learning",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2024",
+    "venue": "ICML",
+    "index": 8937,
+    "similarity_score": 0.45414562822328375,
+    "title": "PIDformer: Transformer Meets Control Theory",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "IJCAI",
+    "index": 12157,
+    "similarity_score": 0.4530699142087402,
+    "title": "Adder Attention for Vision Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "NIPS",
+    "index": 12157,
+    "similarity_score": 0.4530699142087402,
+    "title": "Adder Attention for Vision Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 4
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2018",
+    "venue": "ECCV",
+    "index": 275,
+    "similarity_score": 0.45213151462664514,
+    "title": "Connecting Gaze, Scene, and Attention: Generalized Attention Estimation via Joint Modeling of Gaze and Scene Saliency",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 2,
+        "important": 2
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "ICLR",
+    "index": 1844,
+    "similarity_score": 0.4512151156994727,
+    "title": "On the Dynamics of Training Attention Models",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "IJCAI",
+    "index": 15775,
+    "similarity_score": 0.4510346007473006,
+    "title": "Transformers from an Optimization Perspective",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "NIPS",
+    "index": 15775,
+    "similarity_score": 0.4510346007473006,
+    "title": "Transformers from an Optimization Perspective",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "ACL",
+    "index": 4718,
+    "similarity_score": 0.45079887342357916,
+    "title": "Learning to Deceive with Attention-Based Explanations",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "ACL",
+    "index": 5515,
+    "similarity_score": 0.4496580003812377,
+    "title": "Cascaded Head-colliding Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "IJCAI",
+    "index": 10054,
+    "similarity_score": 0.4489472780747985,
+    "title": "Neural encoding with visual attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "NIPS",
+    "index": 10054,
+    "similarity_score": 0.4489472780747985,
+    "title": "Neural encoding with visual attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 18379,
+    "similarity_score": 0.44822934865726394,
+    "title": "Learning Dictionary for Visual Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 18379,
+    "similarity_score": 0.44822934865726394,
+    "title": "Learning Dictionary for Visual Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "ICML",
+    "index": 6209,
+    "similarity_score": 0.4481808376346279,
+    "title": "Improving Transformers with Probabilistic Attention Keys",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2024",
+    "venue": "ICML",
+    "index": 8711,
+    "similarity_score": 0.44805840103970385,
+    "title": "Attention Meets Post-hoc Interpretability: A Mathematical Perspective",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2016",
+    "venue": "CVPR",
+    "index": 2447,
+    "similarity_score": 0.4478084280811857,
+    "title": "Predicting When Saliency Maps are Accurate and Eye Fixations Consistent",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 16838,
+    "similarity_score": 0.44652530942512003,
+    "title": "Attention as Implicit Structural Inference",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "cognitive_attention": {
+        "relevant": 4,
+        "important": 5
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 16838,
+    "similarity_score": 0.44652530942512003,
+    "title": "Attention as Implicit Structural Inference",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "IJCAI",
+    "index": 9853,
+    "similarity_score": 0.4457884139257555,
+    "title": "O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "NIPS",
+    "index": 9853,
+    "similarity_score": 0.4457884139257555,
+    "title": "O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "ACL",
+    "index": 4922,
+    "similarity_score": 0.44564317588578706,
+    "title": "Highway Transformer: Self-Gating Enhanced Self-Attentive Networks",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2016",
+    "venue": "EMNLP",
+    "index": 2280,
+    "similarity_score": 0.4454756421629562,
+    "title": "Human Attention in Visual Question Answering: Do Humans and Deep Networks Look at the Same Regions?",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2019",
+    "venue": "ICML",
+    "index": 2559,
+    "similarity_score": 0.4453033036993952,
+    "title": "Area Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "ACL",
+    "index": 5460,
+    "similarity_score": 0.4451241795932238,
+    "title": "Improving the Faithfulness of Attention-based Explanations with Task-specific Information for Text Classification",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 1,
+        "important": 1
+      }
+    }
+  },
+  {
+    "year": "2016",
+    "venue": "IJCAI",
+    "index": 6296,
+    "similarity_score": 0.4450194025278258,
+    "title": "Learned Region Sparsity and Diversity Also Predict Visual Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2016",
+    "venue": "NIPS",
+    "index": 6296,
+    "similarity_score": 0.4450194025278258,
+    "title": "Learned Region Sparsity and Diversity Also Predict Visual Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 1,
+        "important": 1
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "ICML",
+    "index": 4455,
+    "similarity_score": 0.44255849019012317,
+    "title": "Attention is not all you need: pure attention loses rank doubly exponentially with depth",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "IJCAI",
+    "index": 14247,
+    "similarity_score": 0.44235626961096797,
+    "title": "Jump Self-attention: Capturing High-order Statistics in Transformers",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "NIPS",
+    "index": 14247,
+    "similarity_score": 0.44235626961096797,
+    "title": "Jump Self-attention: Capturing High-order Statistics in Transformers",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "EMNLP",
+    "index": 3716,
+    "similarity_score": 0.44199342739213765,
+    "title": "Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2017",
+    "venue": "CVPR",
+    "index": 2729,
+    "similarity_score": 0.44166143666641733,
+    "title": "Attentional Push: A Deep Convolutional Network for Augmenting Image Salience with Shared Attention Modeling in Social Scenes",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "ECCV",
+    "index": 1492,
+    "similarity_score": 0.4410567558308315,
+    "title": "Deep Reinforced Attention Learning for Quality-Aware Visual Recognition",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "CVPR",
+    "index": 4934,
+    "similarity_score": 0.4410270001557828,
+    "title": "Scaling Local Self-Attention for Parameter Efficient Visual Backbones",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "ICCV",
+    "index": 2252,
+    "similarity_score": 0.44083350397426935,
+    "title": "Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2024",
+    "venue": "ICML",
+    "index": 10933,
+    "similarity_score": 0.4401701547255563,
+    "title": "Polynomial-based Self-Attention for Table Representation Learning",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 1
+      }
+    }
+  },
+  {
+    "year": "2017",
+    "venue": "CVPR",
+    "index": 3024,
+    "similarity_score": 0.44015481327269834,
+    "title": "Supervising Neural Attention Models for Video Captioning by Human Gaze Data",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "IJCAI",
+    "index": 10153,
+    "similarity_score": 0.44001733025285583,
+    "title": "SAC: Accelerating and Structuring Self-Attention via Sparse Adaptive Connection",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "NIPS",
+    "index": 10153,
+    "similarity_score": 0.44001733025285583,
+    "title": "SAC: Accelerating and Structuring Self-Attention via Sparse Adaptive Connection",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2019",
+    "venue": "AAAI",
+    "index": 10010,
+    "similarity_score": 0.43933939819455814,
+    "title": "Context-Aware Self-Attention Networks",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "AAAI",
+    "index": 11707,
+    "similarity_score": 0.4376761992586212,
+    "title": "Partial Correlation-based Attention for Multivariate Time Series Forecasting",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "IJCAI",
+    "index": 16040,
+    "similarity_score": 0.4369992787246878,
+    "title": "AttCAT: Explaining Transformers via Attentive Class Activation Tokens",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "NIPS",
+    "index": 16040,
+    "similarity_score": 0.4369992787246878,
+    "title": "AttCAT: Explaining Transformers via Attentive Class Activation Tokens",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 3,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "NAACL",
+    "index": 1631,
+    "similarity_score": 0.4368054875152346,
+    "title": "Mask Attention Networks: Rethinking and Strengthen Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "AAAI",
+    "index": 13429,
+    "similarity_score": 0.43679427645353075,
+    "title": "Continuous Self-Attention Models with Neural ODE Networks",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2024",
+    "venue": "ICML",
+    "index": 8517,
+    "similarity_score": 0.43674538610925817,
+    "title": "What Improves the Generalization of Graph Transformers? A Theoretical Dive into the Self-attention and Positional Encoding",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2018",
+    "venue": "ECCV",
+    "index": 731,
+    "similarity_score": 0.43638991958891726,
+    "title": "Boosted Attention: Leveraging Human Attention for Image Captioning",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2019",
+    "venue": "EMNLP",
+    "index": 3271,
+    "similarity_score": 0.4359536154131325,
+    "title": "Attention is not Explanation",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "IJCAI",
+    "index": 11221,
+    "similarity_score": 0.43535057830463864,
+    "title": "What went wrong and when? Instance-wise feature importance for time-series black-box models",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "NIPS",
+    "index": 11221,
+    "similarity_score": 0.43535057830463864,
+    "title": "What went wrong and when? Instance-wise feature importance for time-series black-box models",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 1,
+        "important": 1
+      }
+    }
+  },
+  {
+    "year": "2019",
+    "venue": "IJCAI",
+    "index": 8889,
+    "similarity_score": 0.43524563265184646,
+    "title": "Stand-Alone Self-Attention in Vision Models",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2019",
+    "venue": "NIPS",
+    "index": 8889,
+    "similarity_score": 0.43524563265184646,
+    "title": "Stand-Alone Self-Attention in Vision Models",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "ICML",
+    "index": 4233,
+    "similarity_score": 0.4347435793923847,
+    "title": "You Only Sample (Almost) Once: Linear Cost Self-Attention Via Bernoulli Sampling",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 1,
+        "important": 1
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "IJCAI",
+    "index": 13018,
+    "similarity_score": 0.4331012431464607,
+    "title": "Focal Attention for Long-Range Interactions in Vision Transformers",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "NIPS",
+    "index": 13018,
+    "similarity_score": 0.4331012431464607,
+    "title": "Focal Attention for Long-Range Interactions in Vision Transformers",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2014",
+    "venue": "IJCAI",
+    "index": 5422,
+    "similarity_score": 0.4324683660692211,
+    "title": "Learning Generative Models with Visual Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2014",
+    "venue": "NIPS",
+    "index": 5422,
+    "similarity_score": 0.4324683660692211,
+    "title": "Learning Generative Models with Visual Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "IJCAI",
+    "index": 10588,
+    "similarity_score": 0.4306149162591061,
+    "title": "Fast Transformers with Clustered Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "NIPS",
+    "index": 10588,
+    "similarity_score": 0.4306149162591061,
+    "title": "Fast Transformers with Clustered Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "IJCAI",
+    "index": 15163,
+    "similarity_score": 0.42922348020236734,
+    "title": "FourierFormer: Transformer Meets Generalized Fourier Integral Theorem",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "NIPS",
+    "index": 15163,
+    "similarity_score": 0.42922348020236734,
+    "title": "FourierFormer: Transformer Meets Generalized Fourier Integral Theorem",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2024",
+    "venue": "AAAI",
+    "index": 17994,
+    "similarity_score": 0.4290783264560959,
+    "title": "Exploiting the Social-Like Prior in Transformer for Visual Reasoning",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "IJCAI",
+    "index": 13979,
+    "similarity_score": 0.4285538510732263,
+    "title": "Pure Transformers are Powerful Graph Learners",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "NIPS",
+    "index": 13979,
+    "similarity_score": 0.4285538510732263,
+    "title": "Pure Transformers are Powerful Graph Learners",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2019",
+    "venue": "ACL",
+    "index": 3900,
+    "similarity_score": 0.4285103133787146,
+    "title": "Look Harder: A Neural Machine Translation Model with Hard Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2018",
+    "venue": "EMNLP",
+    "index": 2853,
+    "similarity_score": 0.42824588405115716,
+    "title": "Multi-Head Attention with Disagreement Regularization",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2017",
+    "venue": "CVPR",
+    "index": 2804,
+    "similarity_score": 0.4275197781450115,
+    "title": "Residual Attention Network for Image Classification",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "IJCAI",
+    "index": 12971,
+    "similarity_score": 0.427179105168498,
+    "title": "FMMformer: Efficient and Flexible Transformer via Decomposed Near-field and Far-field Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "NIPS",
+    "index": 12971,
+    "similarity_score": 0.427179105168498,
+    "title": "FMMformer: Efficient and Flexible Transformer via Decomposed Near-field and Far-field Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 16964,
+    "similarity_score": 0.42669488002595635,
+    "title": "Energy Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 16964,
+    "similarity_score": 0.42669488002595635,
+    "title": "Energy Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "ECCV",
+    "index": 2996,
+    "similarity_score": 0.426356946594596,
+    "title": "BA-Net: Bridge Attention for Deep Convolutional Neural Networks",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "IJCAI",
+    "index": 15052,
+    "similarity_score": 0.42621971645584444,
+    "title": "Improving Transformer with an Admixture of Attention Heads",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "NIPS",
+    "index": 15052,
+    "similarity_score": 0.42621971645584444,
+    "title": "Improving Transformer with an Admixture of Attention Heads",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 3,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "ICLR",
+    "index": 3428,
+    "similarity_score": 0.4251582480760976,
+    "title": "SEQUENTIAL ATTENTION FOR FEATURE SELECTION",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "CVPR",
+    "index": 5664,
+    "similarity_score": 0.42459887510266103,
+    "title": "Shunted Self-Attention via Multi-Scale Token Aggregation",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "ECCV",
+    "index": 781,
+    "similarity_score": 0.4230952441351864,
+    "title": "AiR: Attention with Reasoning Capability",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2024",
+    "venue": "ICML",
+    "index": 10777,
+    "similarity_score": 0.42305512033540404,
+    "title": "From Self-Attention to Markov Models: Unveiling the Dynamics of Generative Transformers",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2017",
+    "venue": "ICCV",
+    "index": 1160,
+    "similarity_score": 0.421122729478028,
+    "title": "Paying Attention to Descriptions Generated by Image Captioning Models",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "ICML",
+    "index": 6936,
+    "similarity_score": 0.4203189890769252,
+    "title": "On the Connection Between MPNN and Graph Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "ICLR",
+    "index": 2900,
+    "similarity_score": 0.4198283154665614,
+    "title": "SPIKFORMER: WHEN SPIKING NEURAL NETWORK MEETS TRANSFORMER",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2017",
+    "venue": "ICLR",
+    "index": 264,
+    "similarity_score": 0.41932183678800605,
+    "title": "Recurrent Mixture Density Network for Spatiotemporal Visual Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 19639,
+    "similarity_score": 0.4191305322426151,
+    "title": "What Do Deep Saliency Models Learn about Visual Attention?",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 19639,
+    "similarity_score": 0.4191305322426151,
+    "title": "What Do Deep Saliency Models Learn about Visual Attention?",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2019",
+    "venue": "IJCAI",
+    "index": 9449,
+    "similarity_score": 0.41885969659408406,
+    "title": "Saccader: Improving Accuracy of Hard Attention Models for Vision",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2019",
+    "venue": "NIPS",
+    "index": 9449,
+    "similarity_score": 0.41885969659408406,
+    "title": "Saccader: Improving Accuracy of Hard Attention Models for Vision",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 4,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 18160,
+    "similarity_score": 0.4174469763788474,
+    "title": "On the Convergence of Encoder-only Shallow Transformers",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 18160,
+    "similarity_score": 0.4174469763788474,
+    "title": "On the Convergence of Encoder-only Shallow Transformers",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2024",
+    "venue": "ICLR",
+    "index": 4870,
+    "similarity_score": 0.4171993636438459,
+    "title": "JoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 5,
+        "important": 5
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "CVPR",
+    "index": 8340,
+    "similarity_score": 0.41624064928076865,
+    "title": "Teacher-generated spatial-attention labels boost robustness and accuracy of contrastive models",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 1,
+        "important": 1
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "ACL",
+    "index": 4585,
+    "similarity_score": 0.4157051314235892,
+    "title": "Understanding Attention for Text Classification",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2024",
+    "venue": "CVPR",
+    "index": 11130,
+    "similarity_score": 0.41560225096637404,
+    "title": "Learning from Observer Gaze: Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "IJCAI",
+    "index": 11819,
+    "similarity_score": 0.41549852757218875,
+    "title": "Transformer in Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "NIPS",
+    "index": 11819,
+    "similarity_score": 0.41549852757218875,
+    "title": "Transformer in Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "ACL",
+    "index": 5915,
+    "similarity_score": 0.4153644584470756,
+    "title": "ClusterFormer: Neural Clustering Attention for Efficient and Effective Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "ACL",
+    "index": 5691,
+    "similarity_score": 0.41468656853562647,
+    "title": "More Identifiable yet Equally Performant Transformers for Text Classification",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2017",
+    "venue": "AAAI",
+    "index": 7813,
+    "similarity_score": 0.41279215198875874,
+    "title": "Attention Correctness in Neural Image Captioning",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "ACL",
+    "index": 5386,
+    "similarity_score": 0.41172874485398037,
+    "title": "Convolutions and Self-Attention: Re-interpreting Relative Positions in Pre-trained Language Models",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "ICCV",
+    "index": 2466,
+    "similarity_score": 0.411646052737202,
+    "title": "Co-Scale Conv-Attentional Image Transformers",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2017",
+    "venue": "ICLR",
+    "index": 331,
+    "similarity_score": 0.41131368268984514,
+    "title": "Frustratingly Short Attention Spans in Neural Language Modeling",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2014",
+    "venue": "IJCAI",
+    "index": 5224,
+    "similarity_score": 0.4111936906121346,
+    "title": "Recurrent Models of Visual Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2014",
+    "venue": "NIPS",
+    "index": 5224,
+    "similarity_score": 0.4111936906121346,
+    "title": "Recurrent Models of Visual Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 4,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "ECCV",
+    "index": 3135,
+    "similarity_score": 0.4092346207996512,
+    "title": "ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2024",
+    "venue": "ICML",
+    "index": 8520,
+    "similarity_score": 0.409199133153205,
+    "title": "Self-attention Networks Localize When QK-eigenspectrum Concentrates",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2013",
+    "venue": "ICCV",
+    "index": 11,
+    "similarity_score": 0.40899240286125915,
+    "title": "Analysis of scores, datasets, and models in visual saliency prediction",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 2,
+        "important": 2
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 1,
+        "important": 1
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "AAAI",
+    "index": 15656,
+    "similarity_score": 0.4089524055020223,
+    "title": "Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 5,
+        "important": 5
+      }
+    }
+  },
+  {
+    "year": "2018",
+    "venue": "ECCV",
+    "index": 20,
+    "similarity_score": 0.408471762841604,
+    "title": "Attend and Rectify: a Gated Attention Mechanism for Fine-Grained Recovery",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2024",
+    "venue": "ACL",
+    "index": 7965,
+    "similarity_score": 0.4084263706857578,
+    "title": "EIT: Enhanced Interactive Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "IJCAI",
+    "index": 12772,
+    "similarity_score": 0.4080488613636457,
+    "title": "Passive Attention in Artificial Neural Networks Predicts Human Visual Selectivity",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "NIPS",
+    "index": 12772,
+    "similarity_score": 0.4080488613636457,
+    "title": "Passive Attention in Artificial Neural Networks Predicts Human Visual Selectivity",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "ICML",
+    "index": 5442,
+    "similarity_score": 0.40795268225534387,
+    "title": "Multi Resolution Analysis (MRA) for Approximate Self-Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "EMNLP",
+    "index": 5432,
+    "similarity_score": 0.4079235166361743,
+    "title": "Mixture of Attention Heads: Selecting Attention Heads Per Token",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "CVPR",
+    "index": 5297,
+    "similarity_score": 0.4076696240207447,
+    "title": "On the Integration of Self-Attention and Convolution",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "ICLR",
+    "index": 1336,
+    "similarity_score": 0.40763371490581346,
+    "title": "On the Relationship Between Self-Attention and Convolutional Layers",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "ECCV",
+    "index": 3124,
+    "similarity_score": 0.4073638064879497,
+    "title": "KVT: k-NN Attention for Boosting Vision Transformers",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "IJCAI",
+    "index": 11973,
+    "similarity_score": 0.40703649406241404,
+    "title": "Long-Short Transformer: Efficient Transformers for Language and Vision",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "NIPS",
+    "index": 11973,
+    "similarity_score": 0.40703649406241404,
+    "title": "Long-Short Transformer: Ef\ufb01cient Transformers for Language and Vision",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "ICLR",
+    "index": 3293,
+    "similarity_score": 0.4067630453092753,
+    "title": "A Theoretical Understanding of Shallow Vision Transformers: Learning, Generalization, and Sample Complexity",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 19131,
+    "similarity_score": 0.40675377300260296,
+    "title": "Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 19131,
+    "similarity_score": 0.40675377300260296,
+    "title": "Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "AAAI",
+    "index": 14368,
+    "similarity_score": 0.406367286401758,
+    "title": "MARTA: Leveraging Human Rationales for Explainable Text Classification",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 19603,
+    "similarity_score": 0.40619574872831876,
+    "title": "Blockwise Parallel Transformers for Large Context Models",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 1,
+        "important": 1
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 19603,
+    "similarity_score": 0.40619574872831876,
+    "title": "Blockwise Parallel Transformers for Large Context Models",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2016",
+    "venue": "IJCAI",
+    "index": 6502,
+    "similarity_score": 0.4061363216719184,
+    "title": "Can Active Memory Replace Attention?",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 1,
+        "important": 1
+      }
+    }
+  },
+  {
+    "year": "2016",
+    "venue": "NIPS",
+    "index": 6502,
+    "similarity_score": 0.4061363216719184,
+    "title": "Can Active Memory Replace Attention?",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "ICML",
+    "index": 6049,
+    "similarity_score": 0.4060124520841448,
+    "title": "Learning Multiscale Transformer Models for Sequence Generation",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 5,
+        "important": 5
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "CVPR",
+    "index": 4769,
+    "similarity_score": 0.4057478120223449,
+    "title": "Bottleneck Transformers for Visual Recognition",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2017",
+    "venue": "CVPR",
+    "index": 2891,
+    "similarity_score": 0.4056208657146301,
+    "title": "Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2017",
+    "venue": "AAAI",
+    "index": 8405,
+    "similarity_score": 0.4056067043735305,
+    "title": "An Integrated Model for Effective Saliency Prediction",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2018",
+    "venue": "AAAI",
+    "index": 9130,
+    "similarity_score": 0.4050316527724478,
+    "title": "Exploring Human-Like Attention Supervision in Visual Question Answering",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 4,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2013",
+    "venue": "AAAI",
+    "index": 5801,
+    "similarity_score": 0.4045588915727011,
+    "title": "Video Saliency Detection via Dynamic Consistent Spatio-Temporal Attention Modelling",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 3,
+        "important": 3
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "temporal_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2017",
+    "venue": "ACL",
+    "index": 3321,
+    "similarity_score": 0.4033538710269262,
+    "title": "Doubly-Attentive Decoder for Multi-modal Neural Machine Translation",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "AAAI",
+    "index": 11028,
+    "similarity_score": 0.403026516454542,
+    "title": "Multi-Scale Self-Attention for Text Classification",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2019",
+    "venue": "EMNLP",
+    "index": 3542,
+    "similarity_score": 0.4029903966053682,
+    "title": "Transformer Dissection: An Unified Understanding for Transformer\u2019s Attention via the Lens of Kernel",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "cognitive_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "IJCAI",
+    "index": 13583,
+    "similarity_score": 0.40285008974667547,
+    "title": "Pay Attention to MLPs",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "NIPS",
+    "index": 13583,
+    "similarity_score": 0.40285008974667547,
+    "title": "Pay Attention to MLPs",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 4,
+        "important": 3
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 1,
+        "important": 1
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "CVPR",
+    "index": 5756,
+    "similarity_score": 0.40267265151444454,
+    "title": "Lite Vision Transformer with Enhanced Self-Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "ICML",
+    "index": 6328,
+    "similarity_score": 0.402645298209761,
+    "title": "Unraveling Attention via Convex Duality: Analysis and Interpretations of Vision Transformers",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "CVPR",
+    "index": 6716,
+    "similarity_score": 0.4022476848409092,
+    "title": "PatchFormer: An Efficient Point Transformer with Patch Attention",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "IJCAI",
+    "index": 18216,
+    "similarity_score": 0.4010298095063385,
+    "title": "Designing Robust Transformers using Robust Kernel Density Estimation",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 4
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "hierarchical_attention": {
+        "relevant": 1,
+        "important": 1
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "NIPS",
+    "index": 18216,
+    "similarity_score": 0.4010298095063385,
+    "title": "Designing Robust Transformers using Robust Kernel Density Estimation",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 4,
+        "important": 4
+      },
+      "hierarchical_attention": {
+        "relevant": 2,
+        "important": 2
+      }
+    }
+  },
+  {
+    "year": "2022",
+    "venue": "AAAI",
+    "index": 15220,
+    "similarity_score": 0.4006086360491691,
+    "title": "Sparse MLP for Image Recognition: Is Self-Attention Really Necessary?",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2020",
+    "venue": "ACL",
+    "index": 4538,
+    "similarity_score": 0.400546595888161,
+    "title": "Improving Transformer Models by Reordering their Sublayers",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 4
+      },
+      "visual_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 3,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 3,
+        "important": 3
+      }
+    }
+  },
+  {
+    "year": "2023",
+    "venue": "CVPR",
+    "index": 9398,
+    "similarity_score": 0.40030867692831706,
+    "title": "Neighborhood Attention Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "interpretable_attention": {
+        "relevant": 2,
+        "important": 2
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 4
+      }
+    }
+  },
+  {
+    "year": "2021",
+    "venue": "ICCV",
+    "index": 3177,
+    "similarity_score": 0.400293082594368,
+    "title": "ViViT: A Video Vision Transformer",
+    "sense_analysis": {
+      "neural_attention_mechanism": {
+        "relevant": 5,
+        "important": 5
+      },
+      "visual_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "cognitive_attention": {
+        "relevant": 1,
+        "important": 1
+      },
+      "temporal_attention": {
+        "relevant": 5,
+        "important": 5
+      },
+      "interpretable_attention": {
+        "relevant": 3,
+        "important": 3
+      },
+      "multi_modal_attention": {
+        "relevant": 3,
+        "important": 2
+      },
+      "hierarchical_attention": {
+        "relevant": 4,
+        "important": 3
+      }
+    }
+  }
+]
